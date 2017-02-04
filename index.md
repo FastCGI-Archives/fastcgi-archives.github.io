@@ -16,7 +16,7 @@ site.github.wiki_url: "https://github.com/github/metadata-example/wiki"
 
 # About FastCGI
 
-## FastCGI is simple because it is actually CGI with only a few extensions.
+### FastCGI is simple because it is actually CGI with only a few extensions.
 
 Like CGI, FastCGI is also language-independent. For instance, FastCGI provides a way to improve the performance of the thousands of Perl applications that have been written for the Web.
 
@@ -26,12 +26,12 @@ Although FastCGI cannot duplicate the universality of CGI overnight, the FastCGI
 
 Like CGI, FastCGI is not tied to the internal architecture of any Web server and is therefore stable even when server technology changes. An API reflects the internal architecture of a Web server, so when that architecture changes, so does the API.
 
-## Not only does FastCGI restore the strengths of CGI, it also adds two new benefits:
+### Not only does FastCGI restore the strengths of CGI, it also adds two new benefits:
 
 Distributed computing: Companies can run their FastCGI application on a different machine from the one on which they run their Web server. Distributed computing is a proven technique for scaling, linking to existing corporate systems, improving system availability, and improving security via compartmentalization, such as firewalls.
 Multiple and extensible roles: CGI applications compute the response to an HTTP request. FastCGI applications can do that and more, such as perform modular authentication and authorization checks and translate data from one type to another. FastCGI is designed so that more roles can be introduced in the future.
 
-## Development on FastCGI:
+### Development on FastCGI:
 
 There is not much development on FastCGI because it is a very stable protocol / application.
 
