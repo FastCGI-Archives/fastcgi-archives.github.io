@@ -1,5 +1,6 @@
 ---
 title: FastCGI Archives
+layout: post
 ---
 
 ## [FastCGI Licence](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Licence%20_%20FastCGI%20-.html)
