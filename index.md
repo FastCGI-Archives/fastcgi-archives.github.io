@@ -1,5 +1,6 @@
 ---
 title: Blogging Like a Hacker
+layout: default
 site.github.repository_url: "https://github.com/github/metadata-example"
 site.github.repository_nwo: "github/metadata-example"
 site.github.repository_name: "metadata-example"
