@@ -13,7 +13,7 @@ wiki_url: "https://github.com/github/metadata-example/wiki"
 ---
 
 <p align="center">
-  <a href='https://fastcgi-archives.github.io'><img src="https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/litespeed-screenshot.jpg?raw=true" alt="FastCGI Logo"/></a>
+  <a href='https://github.com/FastCGI-Archives'><img src="https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/litespeed-screenshot.jpg?raw=true" alt="FastCGI Logo"/></a>
 </p>
 
 # About FastCGI
