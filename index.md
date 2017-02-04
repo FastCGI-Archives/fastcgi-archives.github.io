@@ -68,11 +68,11 @@ Two FastCGI related presentations given at O'reilly's Open Source '99 Conference
 
 **From the Perl Conference (Applying Perl track):**
 
-Scaling CGI with Perl   [PDF](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI-Perl.pdf)   [PowerPoint](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI-Perl.ppt)
+Scaling CGI with Perl  | [PDF](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI-Perl.pdf) |  [PowerPoint](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI-Perl.ppt)
 
 **From the Apache Conference:**
 
-The Apache FastCGI Implementation   [PDF](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI.pdf)   [PowerPoint](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI.ppt)
+The Apache FastCGI Implementation  | [PDF](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI.pdf) |  [PowerPoint](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI.ppt)
 
 ## [The Apache FastCGI Process Manager](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/The%20Apache%20FastCGI%20Process%20Manager%20_%20FastCGI%20-.html)
 A description of some of the functionality of the process manager in mod_fastcgi. I'm not sure how accurate it is.
