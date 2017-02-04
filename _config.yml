@@ -1,1 +1,2 @@
 theme: jekyll-theme-cayman
+site.github.api_url: https://github.com/FastCGI-Archives
