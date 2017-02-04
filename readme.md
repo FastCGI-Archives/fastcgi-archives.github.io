@@ -1,5 +1,3 @@
-# FastCGI.com files backups
-
 ## [FastCGI Licence](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Licence%20_%20FastCGI%20-.html)
 
 ## [New FAQ](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FAQ%20(Newer)%20_%20FastCGI%20-.html)
