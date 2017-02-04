@@ -38,28 +38,6 @@ There is not much development on FastCGI because it is a very stable protocol / 
 
 But, yes, we are here...
 
-# Servers that support FastCGI
-* Apache - http://www.apache.org
-
-  * mod_fastcgi is a free, open-source Apache httpd module. 
-  
-  
-    Current: [download](https://github.com/FastCGI-Archives/mod_fastcgi/archive/master.zip) | [docs](https://htmlpreview.github.io/?https://github.com/FastCGI-Backups/mod_fastcgi/blob/master/docs/mod_fastcgi.html) | git: [history](https://github.com/FastCGI-Archives/mod_fastcgi)
-  
-
-  * [Apache install instructions](https://htmlpreview.github.io/?https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20Install%20_%20FastCGI%20-.html)
-  * [Apache FAQ](https://htmlpreview.github.io/?https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20FAQ%20_%20FastCGI%20-.html)
-
-* Microsoft IIS - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
-* Microsoft IIS (second generation) - [http://www.coastrd.com/Home](http://www.coastrd.com/Home) which supports SIGTERM and the Aprellium Abyss server as well
-* SunOne - [https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html](https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html)
-* Lighttpd - [http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI](http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI)
-* Premium thttpd [http://schumann.cx/premium-thttpd/](http://schumann.cx/premium-thttpd/)
-* MyServer - [http://www.myserverproject.net/](http://www.myserverproject.net/)
-* Pi3Web - [http://pi3web.sourceforge.net/](http://pi3web.sourceforge.net/)
-* Nginx - [http://wiki.nginx.org/NginxHttpFcgiModule](http://wiki.nginx.org/NginxHttpFcgiModule)
-* Cherokee - [http://cherokee-project.com/doc/modules_handlers_fcgi.html](http://cherokee-project.com/doc/modules_handlers_fcgi.html)
-
 ## [FastCGI Licence](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Licence%20_%20FastCGI%20-.html)
 
 ## [New FAQ](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FAQ%20(Newer)%20_%20FastCGI%20-.html)
@@ -98,6 +76,28 @@ The Apache FastCGI Implementation   [PDF](https://github.com/FastCGI-Archives/Fa
 
 ## [The Apache FastCGI Process Manager](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/The%20Apache%20FastCGI%20Process%20Manager%20_%20FastCGI%20-.html)
 A description of some of the functionality of the process manager in mod_fastcgi. I'm not sure how accurate it is.
+
+# Servers that support FastCGI
+* Apache - http://www.apache.org
+
+  * mod_fastcgi is a free, open-source Apache httpd module. 
+  
+  
+    Current: [download](https://github.com/FastCGI-Archives/mod_fastcgi/archive/master.zip) | [docs](https://htmlpreview.github.io/?https://github.com/FastCGI-Backups/mod_fastcgi/blob/master/docs/mod_fastcgi.html) | git: [history](https://github.com/FastCGI-Archives/mod_fastcgi)
+  
+
+  * [Apache install instructions](https://htmlpreview.github.io/?https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20Install%20_%20FastCGI%20-.html)
+  * [Apache FAQ](https://htmlpreview.github.io/?https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20FAQ%20_%20FastCGI%20-.html)
+
+* Microsoft IIS - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
+* Microsoft IIS (second generation) - [http://www.coastrd.com/Home](http://www.coastrd.com/Home) which supports SIGTERM and the Aprellium Abyss server as well
+* SunOne - [https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html](https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html)
+* Lighttpd - [http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI](http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI)
+* Premium thttpd [http://schumann.cx/premium-thttpd/](http://schumann.cx/premium-thttpd/)
+* MyServer - [http://www.myserverproject.net/](http://www.myserverproject.net/)
+* Pi3Web - [http://pi3web.sourceforge.net/](http://pi3web.sourceforge.net/)
+* Nginx - [http://wiki.nginx.org/NginxHttpFcgiModule](http://wiki.nginx.org/NginxHttpFcgiModule)
+* Cherokee - [http://cherokee-project.com/doc/modules_handlers_fcgi.html](http://cherokee-project.com/doc/modules_handlers_fcgi.html)
 
 ## [API/Libraries](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Application%20Libraries%20_%20Development%20Kits%20_%20FastCGI%20-.html)
 The FastCGI application libraries.
