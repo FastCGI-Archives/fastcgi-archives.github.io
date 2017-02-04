@@ -38,6 +38,26 @@ There is not much development on FastCGI because it is a very stable protocol / 
 
 But, yes, we are here...
 
+# Servers that support FastCGI
+* Apache - http://www.apache.org
+
+* mod_fastcgi is a free, open-source Apache httpd module. 
+Current: [download]() | [docs]() | browse Win32 DLL-1.3/2.0 | [git: history]()
+
+* [Apache install instructions]()
+* [Apache FAQ]()
+
+* Microsoft IIS - http://www.iis.net/fastcgi/configuration
+* Microsoft IIS (second generation) - http://www.coastrd.com/Home which supports SIGTERM and the Aprellium Abyss server as well
+* SunOne - http://www.sun.com/software/products/web_srvr/home_web_srvr.xml
+* Lighttpd - http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI
+* Premium thttpd http://schumann.cx/premium-thttpd/
+* MyServer - http://www.myserverproject.net/
+* Pi3Web - http://pi3web.sourceforge.net/
+* WebSTAR (Mac OS) - http://www.webstar.com
+* Nginx - http://wiki.nginx.org/NginxHttpFcgiModule
+* Cherokee - http://www.cherokee-project.com/
+
 ## [FastCGI Licence](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Licence%20_%20FastCGI%20-.html)
 
 ## [New FAQ](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FAQ%20(Newer)%20_%20FastCGI%20-.html)
