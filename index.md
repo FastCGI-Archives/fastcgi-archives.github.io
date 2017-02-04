@@ -1,3 +1,18 @@
+---
+title: Blogging Like a Hacker
+repository_url: "https://github.com/github/metadata-example"
+repository_nwo: "github/metadata-example"
+repository_name: "metadata-example"
+zip_url: "https://github.com/github/metadata-example/zipball/gh-pages"
+tar_url: "https://github.com/github/metadata-example/tarball/gh-pages"
+clone_url: "https://github.com/github/metadata-example.git"
+releases_url: "https://github.com/github/metadata-example/releases"
+issues_url: "https://github.com/github/metadata-example/issues"
+wiki_url: "https://github.com/github/metadata-example/wiki"
+---
+
+
+
 ## [FastCGI Licence](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Licence%20_%20FastCGI%20-.html)
 
 ## [New FAQ](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FAQ%20(Newer)%20_%20FastCGI%20-.html)
