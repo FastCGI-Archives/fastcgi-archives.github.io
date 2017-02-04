@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 repository: FastCGI-Archives/FastCGI.com
 repository_url: https://github.com/FastCGI-Archives/FastCGI.com
+gems:
+  - jekyll-readme-index
