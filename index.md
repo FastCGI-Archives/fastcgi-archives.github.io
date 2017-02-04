@@ -78,7 +78,7 @@ The Apache FastCGI Implementation   [PDF](https://github.com/FastCGI-Archives/Fa
 A description of some of the functionality of the process manager in mod_fastcgi. I'm not sure how accurate it is.
 
 # Servers that support FastCGI
-* Apache - http://www.apache.org
+* Apache - [http://www.apache.org](http://www.apache.org)
 
   * mod_fastcgi is a free, open-source Apache httpd module. 
   
