@@ -12,7 +12,7 @@ site.github.issues_url: "https://github.com/github/metadata-example/issues"
 site.github.wiki_url: "https://github.com/github/metadata-example/wiki"
 ---
 
-![logo](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/logo.jpg)
+![logo](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/litespeed-screenshot.jpg)
 
 ## [FastCGI Licence](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Licence%20_%20FastCGI%20-.html)
 
