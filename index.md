@@ -1,17 +1,3 @@
----
-title: Blogging Like a Hacker
-layout: default
-repository_url: "https://github.com/github/metadata-example"
-repository_nwo: "github/metadata-example"
-repository_name: "metadata-example"
-zip_url: "https://github.com/github/metadata-example/zipball/gh-pages"
-tar_url: "https://github.com/github/metadata-example/tarball/gh-pages"
-clone_url: "https://github.com/github/metadata-example.git"
-releases_url: "https://github.com/github/metadata-example/releases"
-issues_url: "https://github.com/github/metadata-example/issues"
-wiki_url: "https://github.com/github/metadata-example/wiki"
----
-
 <p align="center">
   <a href='https://github.com/FastCGI-Archives'><img src="https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/litespeed-screenshot.jpg?raw=true" alt="FastCGI Logo"/></a>
 </p>
@@ -81,9 +67,12 @@ A description of some of the functionality of the process manager in mod_fastcgi
 
 # Servers that support FastCGI
 * Apache - [http://www.apache.org](http://www.apache.org)
-
-  * mod_fastcgi is a free, open-source Apache httpd module. 
+  * Apache 2.4 native support :
+     - [mod_proxy_fcgi](https://httpd.apache.org/docs/2.4/mod/mod_proxy_fcgi.html)
+     - [mod_authnz_fcgi](https://httpd.apache.org/docs/2.4/mod/mod_authnz_fcgi.html)
+  * Apache 2.x [Mod_fcgid](http://httpd.apache.org/mod_fcgid/)
   
+  * Open Market mod_fastcgi free, open-source Apache httpd module. 
   
     Current: [download](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/original_snapshot/mod_fastcgi-SNAP-0910052141.tar.gz) | [docs](https://htmlpreview.github.io/?https://github.com/FastCGI-Backups/mod_fastcgi/blob/master/docs/mod_fastcgi.html) | git: [history](https://github.com/FastCGI-Archives/mod_fastcgi)
   
