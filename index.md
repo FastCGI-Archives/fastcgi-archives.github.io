@@ -1,15 +1,15 @@
 ---
 title: Blogging Like a Hacker
 layout: default
-site.github.repository_url: "https://github.com/github/metadata-example"
-site.github.repository_nwo: "github/metadata-example"
-site.github.repository_name: "metadata-example"
-site.github.zip_url: "https://github.com/github/metadata-example/zipball/gh-pages"
-site.github.tar_url: "https://github.com/github/metadata-example/tarball/gh-pages"
-site.github.clone_url: "https://github.com/github/metadata-example.git"
-site.github.releases_url: "https://github.com/github/metadata-example/releases"
-site.github.issues_url: "https://github.com/github/metadata-example/issues"
-site.github.wiki_url: "https://github.com/github/metadata-example/wiki"
+repository_url: "https://github.com/github/metadata-example"
+repository_nwo: "github/metadata-example"
+repository_name: "metadata-example"
+zip_url: "https://github.com/github/metadata-example/zipball/gh-pages"
+tar_url: "https://github.com/github/metadata-example/tarball/gh-pages"
+clone_url: "https://github.com/github/metadata-example.git"
+releases_url: "https://github.com/github/metadata-example/releases"
+issues_url: "https://github.com/github/metadata-example/issues"
+wiki_url: "https://github.com/github/metadata-example/wiki"
 ---
 
 [![logo](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/litespeed-screenshot.jpg)](https://github.com/FastCGI-Archives)
