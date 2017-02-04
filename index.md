@@ -48,16 +48,16 @@ But, yes, we are here...
   * [Apache install instructions](https://htmlpreview.github.io/?https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20Install%20_%20FastCGI%20-.html)
   * [Apache FAQ](https://htmlpreview.github.io/?https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20FAQ%20_%20FastCGI%20-.html)
 
-* Microsoft IIS - http://www.iis.net/fastcgi/configuration
-* Microsoft IIS (second generation) - http://www.coastrd.com/Home which supports SIGTERM and the Aprellium Abyss server as well
-* SunOne - http://www.sun.com/software/products/web_srvr/home_web_srvr.xml
-* Lighttpd - http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI
-* Premium thttpd http://schumann.cx/premium-thttpd/
-* MyServer - http://www.myserverproject.net/
-* Pi3Web - http://pi3web.sourceforge.net/
-* WebSTAR (Mac OS) - http://www.webstar.com
-* Nginx - http://wiki.nginx.org/NginxHttpFcgiModule
-* Cherokee - http://www.cherokee-project.com/
+* Microsoft IIS - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
+* Microsoft IIS (second generation) - [http://www.coastrd.com/Home](http://www.coastrd.com/Home) which supports SIGTERM and the Aprellium Abyss server as well
+* SunOne - [http://www.sun.com/software/products/web_srvr/home_web_srvr.xml](http://www.sun.com/software/products/web_srvr/home_web_srvr.xml)
+* Lighttpd - [http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI](http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI)
+* Premium thttpd [http://schumann.cx/premium-thttpd/](http://schumann.cx/premium-thttpd/)
+* MyServer - [http://www.myserverproject.net/](http://www.myserverproject.net/)
+* Pi3Web - [http://pi3web.sourceforge.net/](http://pi3web.sourceforge.net/)
+* WebSTAR (Mac OS) - [http://www.webstar.com](http://www.webstar.com)
+* Nginx - [http://wiki.nginx.org/NginxHttpFcgiModule](http://wiki.nginx.org/NginxHttpFcgiModule)
+* Cherokee - [http://www.cherokee-project.com/](http://www.cherokee-project.com/)
 
 ## [FastCGI Licence](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Licence%20_%20FastCGI%20-.html)
 
