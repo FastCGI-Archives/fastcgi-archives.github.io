@@ -76,8 +76,8 @@ A description of some of the functionality of the process manager in mod_fastcgi
   
        Current: [download](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/original_snapshot/mod_fastcgi-SNAP-0910052141.tar.gz) | [docs](https://htmlpreview.github.io/?https://github.com/FastCGI-Backups/mod_fastcgi/blob/master/docs/mod_fastcgi.html) | git: [history](https://github.com/FastCGI-Archives/mod_fastcgi)
 
-      * [Apache install instructions](https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20Install%20_%20FastCGI%20-.md)
-      * [Apache FAQ](https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20FAQ%20_%20FastCGI%20-.md)
+      * [Apache install instructions](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Apache%20Install%20_%20FastCGI%20-.md)
+      * [Apache FAQ](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Apache%20FAQ%20_%20FastCGI%20-.md)
 
 * Microsoft IIS - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
 * Microsoft IIS (second generation) - [http://www.coastrd.com/Home](http://www.coastrd.com/Home) which supports SIGTERM and the Aprellium Abyss server as well
