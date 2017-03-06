@@ -26,29 +26,29 @@ There is not much development on FastCGI because it is a very stable protocol / 
 
 But, yes, we are here...
 
-## [FastCGI Licence](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Licence%20_%20FastCGI%20-.html)
+## [FastCGI Licence](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Licence%20_%20FastCGI%20-.md)
 
-## [New FAQ](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FAQ%20(Newer)%20_%20FastCGI%20-.html)
+## [New FAQ](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FAQ%20(Newer)%20_%20FastCGI%20-.md)
 
-## [FAQ](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20FAQ.html)
+## [FAQ](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20FAQ.md)
 Frequently asked questions, examples and explanations.
 
-## [FastCGI White Paper](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI_%20A%20High-Performance%20Web%20Server%20Interface%20_%20FastCGI%20-.html)
+## [FastCGI White Paper](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI_%20A%20High-Performance%20Web%20Server%20Interface%20_%20FastCGI%20-.md)
 Describes the motivation for FastCGI, the FastCGI interface, FastCGI application roles, the FastCGI application library, and FastCGI performance.
 
-## [Understanding FastCGI Application Performance](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Understanding%20FastCGI%20Application%20Performance%20_%20FastCGI%20-.html)
+## [Understanding FastCGI Application Performance](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Understanding%20FastCGI%20Application%20Performance%20_%20FastCGI%20-.md)
 Why FastCGI applications often run faster than applications coded directly to Web server APIs.
 
-## [FastCGI Developer' Kit](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20Developer's%20Kit%20_%20FastCGI%20-.html)
+## [FastCGI Developer' Kit](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20Developer's%20Kit%20_%20FastCGI%20-.md)
 How to configure and build the kit, and write applications using the FastCGI application libraries.
 
 ## [FastCGI Programmer' Guide](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/fcgi2/blob/master/doc/fastcgi-prog-guide/cover.htm)
 Programmer-oriented documentation for developers of FastCGI applications. The content overlaps considerably with the Developer's Kit document.
 
-## [FastCGI Specification](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20Specification.html)
+## [FastCGI Specification](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20Specification.md)
 Defines the interface between a FastCGI application and the Web server.
 
-## [FastCGI - A High-Performance Gateway Interface](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI_%20A%20High-Performance%20Gateway%20Interface%20_%20FastCGI%20-.html)
+## [FastCGI - A High-Performance Gateway Interface](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI_%20A%20High-Performance%20Gateway%20Interface%20_%20FastCGI%20-.md)
 Position paper presented at the workshop "Programming the Web -- a search for APIs", Fifth International World Wide Web Conference, 6 May 1996, Paris, France.
 
 ## Rob's Open Source '99 Presentations
@@ -62,7 +62,7 @@ Scaling CGI with Perl  | [PDF](https://github.com/FastCGI-Archives/FastCGI.com/r
 
 The Apache FastCGI Implementation  | [PDF](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI.pdf) |  [PowerPoint](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI.ppt)
 
-## [The Apache FastCGI Process Manager](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/The%20Apache%20FastCGI%20Process%20Manager%20_%20FastCGI%20-.html)
+## [The Apache FastCGI Process Manager](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/The%20Apache%20FastCGI%20Process%20Manager%20_%20FastCGI%20-.md)
 A description of some of the functionality of the process manager in mod_fastcgi. I'm not sure how accurate it is.
 
 # Servers that support FastCGI
@@ -76,8 +76,8 @@ A description of some of the functionality of the process manager in mod_fastcgi
   
        Current: [download](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/original_snapshot/mod_fastcgi-SNAP-0910052141.tar.gz) | [docs](https://htmlpreview.github.io/?https://github.com/FastCGI-Backups/mod_fastcgi/blob/master/docs/mod_fastcgi.html) | git: [history](https://github.com/FastCGI-Archives/mod_fastcgi)
 
-      * [Apache install instructions](https://htmlpreview.github.io/?https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20Install%20_%20FastCGI%20-.html)
-      * [Apache FAQ](https://htmlpreview.github.io/?https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20FAQ%20_%20FastCGI%20-.html)
+      * [Apache install instructions](https://htmlpreview.github.io/?https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20Install%20_%20FastCGI%20-.md)
+      * [Apache FAQ](https://htmlpreview.github.io/?https://raw.githubusercontent.com/FastCGI-Archives/FastCGI.com/master/docs/Apache%20FAQ%20_%20FastCGI%20-.md)
 
 * Microsoft IIS - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
 * Microsoft IIS (second generation) - [http://www.coastrd.com/Home](http://www.coastrd.com/Home) which supports SIGTERM and the Aprellium Abyss server as well
@@ -102,10 +102,10 @@ The FastCGI application libraries.
     *   [FCGI wrapper for Microsoft ™ IIS](http://search.cpan.org/~cosmicnet/) by Lyle Hopkins.
     *   [FCGI](http://search.cpan.org/~skimo/) by Sven Verdoolaege.
     *   [CGI::Fast](http://search.cpan.org/dist/CGI.pm/CGI/Fast.pm) by Lincoln D. Stein.
-    *   [Perl Usage Instructions](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/Perl%20_%20FastCGI%20-.html)
+    *   [Perl Usage Instructions](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/Perl%20_%20FastCGI%20-.md)
     *   [Catalyst](http://catalyst.perl.org/) MVC For Perl
 *   [PHP](http://www.php.net/)
-    *   [PHP Usage Instructions](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/PHP%20_%20FastCGI%20-.html)
+    *   [PHP Usage Instructions](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/FastCGI.com/blob/master/PHP%20_%20FastCGI%20-.md)
     *   [Fastcgi Process manager](http://php-fpm.org/) (requires php 5.3.3)
 *   [Fastcgi for Ruby](https://rubyforge.org/projects/fcgi/)
 *   [Python](http://www.python.org/)
