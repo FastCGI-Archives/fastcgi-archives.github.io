@@ -1,8 +1,7 @@
 ---
-theme: jekyll-theme-cayman
+layout: home
 title: Open Market Licence
 description: This is the Open Market Licence.
-layout: home
 ---
 
 toto
