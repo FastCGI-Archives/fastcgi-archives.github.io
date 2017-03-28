@@ -1,3 +1,9 @@
+---
+layout: default
+title: FastCGI.com Archives
+description: This is the <a href='https://github.com/FastCGI-Archives'>Github FastCGI Archives of FastCGI.com site</a>.
+---
+
 <p align="center">
   <a href='https://github.com/FastCGI-Archives'><img src="https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/litespeed-screenshot.jpg?raw=true" alt="FastCGI Logo"/></a>
 </p>
