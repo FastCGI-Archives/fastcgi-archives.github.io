@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 site.api_url: https://github.com/FastCGI-Archives
+site.github.is_project_page: true
+site.github.repository_url: https://github.com/FastCGI-Archives
 show_downloads: false
 site.title: FastCGI.com Archives
 site.description: This is the Github FastCGI Archives of FastCGI.com site.
