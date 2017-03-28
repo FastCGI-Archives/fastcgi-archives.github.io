@@ -1,6 +1,5 @@
 ---
 theme: jekyll-theme-cayman
-layout: page
 title: Open Market Licence
 description: This is the github Archive of FastCGI.com site.</br><a href='https://github.com/FastCGI-Archives'><Github FastCGI Archives</a>
 ---
