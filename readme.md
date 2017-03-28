@@ -2,7 +2,7 @@
   <a href='https://github.com/FastCGI-Archives'><img src="https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/litespeed-screenshot.jpg?raw=true" alt="FastCGI Logo"/></a>
 </p>
 
-# About FastCGI
+# About FastCGI 2
 
 ### FastCGI is simple because it is actually CGI with only a few extensions.
 
