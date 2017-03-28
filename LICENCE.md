@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Open Market Licence
 description: This is the Open Market Licence.
 ---
