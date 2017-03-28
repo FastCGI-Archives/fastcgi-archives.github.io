@@ -1,10 +1,7 @@
-
-------
-
+---
 theme: jekyll-theme-cayman
 layout: pages
-
-------
+---
 
 This FastCGI application library source and object code (the "Software") and its documentation (the "Documentation") are copyrighted by Open Market, Inc ("Open Market"). The following terms apply to all files associated with the Software and Documentation unless explicitly disclaimed in individual files.
 
