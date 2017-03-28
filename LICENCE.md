@@ -1,6 +1,6 @@
 ---
-title: Open Market Licence
-description: This is the Open Market Licence.
+title: FastCGI Open Market Licence
+description: This is the FastCGI Open Market Licence.
 layout: page
 ---
 
