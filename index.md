@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Open Market Licence
-description: This is the Open Market Licence.
+title: FastCGI.com Archives
+description: This is the Github FastCGI Archives of FastCGI.com site.
 ---
 
 
