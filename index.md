@@ -4,11 +4,6 @@ title: FastCGI.com Archives
 description: This is the Github FastCGI Archives of FastCGI.com site.
 ---
 
-
-<p align="center">
-  <a href='https://github.com/FastCGI-Archives'><img src="https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/litespeed-screenshot.jpg?raw=true" alt="FastCGI Logo"/></a>
-</p>
-
 # About FastCGI
 
 ### FastCGI is simple because it is actually CGI with only a few extensions.
