@@ -1,5 +1,6 @@
 ---
 layout: home
+theme: jekyll-theme-cayman
 title: Open Market Licence
 description: This is the Open Market Licence.
 ---
