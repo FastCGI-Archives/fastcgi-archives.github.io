@@ -84,9 +84,10 @@ A description of some of the functionality of the process manager in mod_fastcgi
 * Nginx - [http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html](http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html)
 * Lighttpd - [http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI](http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI)
 * Cherokee - [http://cherokee-project.com/doc/modules_handlers_fcgi.html](http://cherokee-project.com/doc/modules_handlers_fcgi.html)
-* Microsoft IIS - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
-* Microsoft IIS (second generation) - [http://www.coastrd.com/fastcgi](http://www.coastrd.com/fastcgi) which supports SIGTERM and the Aprellium Abyss server as well
-* Microsoft IIS >7 - [https://www.iis.net/configreference/system.webserver/fastcgi](https://www.iis.net/configreference/system.webserver/fastcgi)
+* Microsoft IIS 
+   - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
+   - (second generation) - [http://www.coastrd.com/fastcgi](http://www.coastrd.com/fastcgi) which supports SIGTERM and the Aprellium Abyss server as well
+   - IIS >7 - [https://www.iis.net/configreference/system.webserver/fastcgi](https://www.iis.net/configreference/system.webserver/fastcgi)
 * SunOne - [https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html](https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html)
 * Premium thttpd [http://schumann.cx/premium-thttpd/](http://schumann.cx/premium-thttpd/)
 * MyServer - [http://www.myserverproject.net/](http://www.myserverproject.net/)
