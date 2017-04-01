@@ -107,7 +107,7 @@ The FastCGI application libraries.
     *   [Perl Usage Instructions](Perl_FastCGI.md)
     *   [Catalyst](http://catalyst.perl.org/) MVC For Perl
 *   [PHP](http://www.php.net/)
-    *   [PHP Usage Instructions](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/PHP _ FastCGI -.md)
+    *   [PHP Usage Instructions](PHP_FastCGI.md)
     *   [Fastcgi Process manager](http://php-fpm.org/) (requires php 5.3.3)
 *   [Fastcgi for Ruby](https://rubyforge.org/projects/fcgi/)
 *   [Python](http://www.python.org/)
