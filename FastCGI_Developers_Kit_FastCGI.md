@@ -44,9 +44,9 @@ This document:
 *   Tells how to write applications using the libraries in the kit.
 *   Tells how to run applications using Web servers that support FastCGI or using any Web server and <tt>cgi-fcgi</tt>.
 
-The kit includes a [technical white paper](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/fcgi2/blob/master/doc/fastcgi-whitepaper/fastcgi.htm), <tt>doc/fastcgi-whitepaper/fastcgi.htm</tt>. You should read at least the first three sections of the technical white paper before starting to write FastCGI applications. The [performance paper](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/fcgi2/blob/master/doc/fcgi-perf.htm) will help you understand how application design affects performance with FastCGI.
+The kit includes a [technical white paper](FastCGI_A_High-Performance_Web_Server_Interface_FastCGI.md). You should read at least the first three sections of the technical white paper before starting to write FastCGI applications. The [performance paper](FastCGI_A_High-Performance_Gateway_Interface_FastCGI.md) will help you understand how application design affects performance with FastCGI.
 
-The [FastCGI Specification](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/fcgi2/blob/master/doc/fcgi-spec.html), <tt>doc/fcgi-spec.html</tt>, defines the interface between a FastCGI application and a Web server that supports FastCGI. The software in the kit implements the specification. You don't need to read the specification in order to write applications.
+The [FastCGI Specification](FastCGI_Specification.md), defines the interface between a FastCGI application and a Web server that supports FastCGI. The software in the kit implements the specification. You don't need to read the specification in order to write applications.
 
 Additional information is provided in the [FAQ](FastCGI%20FAQ.md) document, which contains frequently asked questions about application development using FastCGI, as well as some general information.
 
@@ -342,7 +342,7 @@ On AIX there's a problem with shared listening sockets. The symptoms can include
 
 ### <a name="S6">6\. Getting support</a>
 
-Use issue page on [FastCGI Archives github issue page](https://github.com/FastCGI-Archives/fastcgi-archives.github.io/issues)
+Use issue page on [FastCGI Archives/fcgi2 github issue page](https://github.com/FastCGI-Archives/fcgi2/issues)
 
 * * *
 
