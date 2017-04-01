@@ -47,7 +47,7 @@ How to configure and build the kit, and write applications using the FastCGI app
 ## [FastCGI Programmer' Guide](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/fcgi2/blob/master/doc/fastcgi-prog-guide/cover.htm)
 Programmer-oriented documentation for developers of FastCGI applications. The content overlaps considerably with the Developer's Kit document.
 
-## [FastCGI Specification](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20Specification.md)
+## [FastCGI Specification](FastCGI_Specification.md)
 Defines the interface between a FastCGI application and the Web server.
 
 ## [FastCGI - A High-Performance Gateway Interface](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI_%20A%20High-Performance%20Gateway%20Interface%20_%20FastCGI%20-.md)
