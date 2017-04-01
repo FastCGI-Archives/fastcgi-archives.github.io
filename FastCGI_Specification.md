@@ -1,6 +1,11 @@
-## FastCGI Specification
+---
+title: FastCGI Specification
+description: This specification has narrow goal: to specify, from an application perspective, the interface between a FastCGI application and a Web server that supports FastCGI.
+layout: page
+---
 
-Mark R. Brown  
+[Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)
+
 Open Market, Inc.  
 
 Document Version: 1.0  
@@ -658,4 +663,4 @@ Additional notational conventions for the examples:
 
 * * *
 
-**© 1995, 1996 Open Market, Inc. / mbrown@openmarket.com**
+**© 1995, 1996 Open Market, Inc. / [Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)**
