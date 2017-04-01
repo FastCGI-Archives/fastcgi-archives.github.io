@@ -3,7 +3,8 @@
 Position paper for the workshop "Programming the Web - a search for APIs",  
 Fifth International World Wide Web Conference, 6 May 1996, Paris, France.  
 
-Mark R. Brown  
+[Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)
+
 Open Market, Inc.  
 
 2 May 1996  
@@ -106,4 +107,4 @@ Today's Web business applications need a platform that's fast, open, maintainabl
 
 For more information about FastCGI, visit the [fastcgi-archives.github.io Web site](https://fastcgi-archives.github.io/).
 
-**© Copyright 1996 - 2014 Open Market, Rob Saccoccio & others, All rights reserved. [Web design](http://www.cosmicsitedesign.com/) by CosmicSiteDesign.com**
+**© Copyright 1996 - 2014 Open Market, Rob Saccoccio & others, All rights reserved.**
