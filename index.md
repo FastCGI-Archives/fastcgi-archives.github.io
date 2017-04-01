@@ -67,7 +67,7 @@ The Apache FastCGI Implementation  | [PDF](https://github.com/FastCGI-Archives/F
 ## [The Apache FastCGI Process Manager](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/The%20Apache%20FastCGI%20Process%20Manager%20_%20FastCGI%20-.md)
 A description of some of the functionality of the process manager in mod_fastcgi. I'm not sure how accurate it is.
 
-# Servers that support FastCGI
+# <a name="ServerSupport">Servers that support FastCGI<a>
 * Apache - [http://www.apache.org](http://www.apache.org)
   * Apache 2.4 native support :
      - [mod_proxy_fcgi](https://httpd.apache.org/docs/2.4/mod/mod_proxy_fcgi.html)
@@ -91,7 +91,7 @@ A description of some of the functionality of the process manager in mod_fastcgi
 * Nginx - [http://wiki.nginx.org/NginxHttpFcgiModule](http://wiki.nginx.org/NginxHttpFcgiModule)
 * Cherokee - [http://cherokee-project.com/doc/modules_handlers_fcgi.html](http://cherokee-project.com/doc/modules_handlers_fcgi.html)
 
-## API/Libraries
+## <a name="apilib">API/Libraries</a>
 
 The FastCGI application libraries.
 
