@@ -97,6 +97,7 @@ A description of some of the functionality of the process manager in mod_fastcgi
 * Premium thttpd [http://schumann.cx/premium-thttpd/](http://schumann.cx/premium-thttpd/)
 * MyServer - [http://www.myserverproject.net/](http://www.myserverproject.net/)
 * Pi3Web - [http://pi3web.sourceforge.net/](http://pi3web.sourceforge.net/)
+* Jetty - [http://www.eclipse.org/jetty/documentation/current/fastcgi.html](http://www.eclipse.org/jetty/documentation/current/fastcgi.html)
 
 ## <a name="apilib">API/Libraries</a>
 
@@ -143,4 +144,5 @@ The FastCGI application libraries.
 
 # Articles on FastCGI
 
-*  [FastCGI — The Forgotten Treasur](http://www.nongnu.org/fastcgi/) Peter Simons
+*  [FastCGI — The Forgotten Treasur](http://www.nongnu.org/fastcgi/) from Peter Simons
+*  [FastCGI: Persistent Applications for Your Web Server](http://www.linuxjournal.com/article/2607) from Paul Heinlein of linuxjournal
