@@ -1,3 +1,9 @@
+---
+title: FastCGI Open Market Licence
+description: This is the FastCGI Open Market Licence.
+layout: page
+---
+
 *   [FastCGI: incomplete headers (d bytes) received from server "s"](#incomplete_headers)
 *   [Why is Windows reporting that it is unable to locate a DLL?](#windows_dll)
 *   [How do I use fork or exec?](#fork)
