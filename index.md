@@ -41,7 +41,7 @@ Describes the motivation for FastCGI, the FastCGI interface, FastCGI application
 ## [Understanding FastCGI Application Performance](Understanding_FastCGI_Application_Performance_FastCGI.md)
 Why FastCGI applications often run faster than applications coded directly to Web server APIs.
 
-## [FastCGI Developer' Kit](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20Developer's%20Kit%20_%20FastCGI%20-.md)
+## [FastCGI Developer' Kit](FastCGI_Developers_Kit_FastCGI.md)
 How to configure and build the kit, and write applications using the FastCGI application libraries.
 
 ## [FastCGI Programmer' Guide](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/fcgi2/blob/master/doc/fastcgi-prog-guide/cover.htm)
