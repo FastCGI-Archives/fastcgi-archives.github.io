@@ -308,8 +308,6 @@ Today's Web business applications need a platform that's fast, open, maintainabl
 
 ## 8\. For More Information
 
-For more information about Open Market and our products, visit our Web site at:[http://www.openmarket.com/](https://web.archive.org/web/20160305160340/http://www.openmarket.com/)
-
 For more information about the FastCGI protocol and the developer's kit, and the latest information about FastCGI standardization and support in other Web servers, visit the FastCGI project page at: [fastcgi-archives.github.io](https://fastcgi-archives.github.io/)
 
 This file is Copyright © 1996 Open Market, Inc.
