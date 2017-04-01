@@ -199,7 +199,7 @@ The main task in converting a CGI program into a FastCGI program is separating t
 
 Retained application state may be an issue. You must ensure that any application state created in processing one request has no unintended effects on later requests. FastCGI offers the possibility of significant application performance improvements, through caching; it is up to you to make the caches work correctly.
 
-Storage leaks may be an issue. Many CGI programs don't worry about storage leaks because the programs don't run for long enough for bloating to be a problem. When converting to FastCGI, you can either use a tool such as [_Purify_](http://www.pure.com/) from Pure Software to discover and fix storage leaks, or you can run a C garbage collector such as [_Great Circle_](http://www.geodesic.com/) from Geodesic Systems.
+Storage leaks may be an issue. Many CGI programs don't worry about storage leaks because the programs don't run for long enough for bloating to be a problem. When converting to FastCGI, you can either use a tool such as [_Purify_](https://en.wikipedia.org/wiki/Rational_Purify) from TeamBlue of UNICOM to discover and fix storage leaks, or you can run dynamic analysis tools such as open source [_valgrind_](http://valgrind.org/).
 
 #### Limitations
 
