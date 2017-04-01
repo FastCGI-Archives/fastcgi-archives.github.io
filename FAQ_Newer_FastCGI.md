@@ -1,6 +1,6 @@
 ---
-title: FastCGI Open Market Licence
-description: This is the FastCGI Open Market Licence.
+title: FAQ Newer - FastCGI
+description: This is the FAQ Newer - FastCGI.
 layout: page
 ---
 
