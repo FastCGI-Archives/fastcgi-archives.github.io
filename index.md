@@ -108,7 +108,8 @@ The FastCGI application libraries.
     *   [Catalyst](http://catalyst.perl.org/) MVC For Perl
 *   [PHP](http://www.php.net/)
     *   [PHP Usage Instructions](PHP_FastCGI.md)
-    *   [Fastcgi Process manager](http://php-fpm.org/) (requires php 5.3.3)
+    *   [Fastcgi Process manager 5.3.3](http://php-fpm.org/) 
+    *   [Fastcgi Process Manager integrated in php >5.3](http://php.net/manual/fr/install.fpm.php)
 *   [Fastcgi for Ruby](https://rubyforge.org/projects/fcgi/)
 *   [Python](http://www.python.org/)
     *   Jon Ribbens' multi-threaded 'servlet' interface - [jonpy](http://jonpy.sourceforge.net/)
