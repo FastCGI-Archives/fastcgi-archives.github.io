@@ -1,4 +1,12 @@
-<a name="PerlSignals">How do I handle signals in Perl?</a> There is a problem when Apache httpd terminates. Apache will send a USR1 or TERM signal. The Perl 5.8 (with safe signal handling) FastCGI application receives the signal, but defers the signal till the next op-code break. Apache then exits. The FastCGI application then continues waiting for a request that will never come. If such a request could come, then the signal would be handled after the system call. However, since a request can never come the FastCGI application hangs. The closest, but maybe not the best solution I found was to set this ENV var. FastCgiConfig -initial-env PERL_SIGNALS=unsafe This allows the signals to be processed immediately. Here's an example that ignores SIGPIPE:
+<a name="PerlSignals">How do I handle signals in Perl?</a> 
+
+There is a problem when Apache httpd terminates. Apache will send a USR1 or TERM signal.
+
+The Perl 5.8 (with safe signal handling) FastCGI application receives the signal, but defers the signal till the next op-code break. Apache then exits. The FastCGI application then continues waiting for a request that will never come. 
+
+If such a request could come, then the signal would be handled after the system call. However, since a request can never come the FastCGI application hangs. 
+
+The closest, but maybe not the best solution I found was to set this ENV var. `FastCgiConfig -initial-env PERL_SIGNALS=unsafe` This allows the signals to be processed immediately. Here's an example that ignores SIGPIPE:
 
 ```
 #!/usr/local/bin/perl
