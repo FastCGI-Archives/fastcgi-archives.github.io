@@ -35,7 +35,7 @@ But, yes, we are here...
 ## [FAQ](FastCGI_FAQ.md)
 Frequently asked questions, examples and explanations.
 
-## [FastCGI White Paper](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI_%20A%20High-Performance%20Web%20Server%20Interface%20_%20FastCGI%20-.md)
+## [FastCGI White Paper](FastCGI_A_High-Performance_Web_Server_Interface_FastCGI.md)
 Describes the motivation for FastCGI, the FastCGI interface, FastCGI application roles, the FastCGI application library, and FastCGI performance.
 
 ## [Understanding FastCGI Application Performance](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Understanding%20FastCGI%20Application%20Performance%20_%20FastCGI%20-.md)
