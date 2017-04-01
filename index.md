@@ -104,7 +104,7 @@ The FastCGI application libraries.
     *   [FCGI wrapper for Microsoft ™ IIS](http://search.cpan.org/~cosmicnet/) by Lyle Hopkins.
     *   [FCGI](http://search.cpan.org/~skimo/) by Sven Verdoolaege.
     *   [CGI::Fast](http://search.cpan.org/dist/CGI.pm/CGI/Fast.pm) by Lincoln D. Stein.
-    *   [Perl Usage Instructions](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Perl _ FastCGI -.md)
+    *   [Perl Usage Instructions](Perl_FastCGI.md)
     *   [Catalyst](http://catalyst.perl.org/) MVC For Perl
 *   [PHP](http://www.php.net/)
     *   [PHP Usage Instructions](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/PHP _ FastCGI -.md)
