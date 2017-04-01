@@ -214,9 +214,9 @@ count = fscanf(FCGI_ToFile(myStream), format, ...);
 
 #### Reference documentation
 
-The [<tt>FCGI_Accept</tt> manpage](https://raw.githubusercontent.com/FastCGI-Backups/fcgi2/master/doc/FCGI_Accept.3), <tt>doc/FCGI_Accept.3</tt>, describes the function in the traditional format.
+The [<tt>FCGI_Accept</tt> manpage](https://raw.githubusercontent.com/FastCGI-Archives/fcgi2/master/doc/FCGI_Accept.3), <tt>doc/FCGI_Accept.3</tt>, describes the function in the traditional format.
 
-The [<tt>FCGI_Finish</tt>](https://raw.githubusercontent.com/FastCGI-Backups/fcgi2/master/doc/FCGI_Finish.3) (<tt>doc/FCGI_Finish.3</tt>), [<tt>FCGI_SetExitStatus</tt>](https://raw.githubusercontent.com/FastCGI-Backups/fcgi2/master/doc/FCGI_SetExitStatus.3) (<tt>doc/FCGI_SetExitStatus.3</tt>), and [<tt>FCGI_StartFilterData</tt>](https://raw.githubusercontent.com/FastCGI-Backups/fcgi2/master/doc/FCGI_StartFilterData.3) (<tt>doc/FCGI_StartFilterData.3</tt>) manpages document capabilities of the <tt>fcgi-stdio</tt> library that are not illustrated above.
+The [<tt>FCGI_Finish</tt>](https://raw.githubusercontent.com/FastCGI-Archives/fcgi2/master/doc/FCGI_Finish.3) (<tt>doc/FCGI_Finish.3</tt>), [<tt>FCGI_SetExitStatus</tt>](https://raw.githubusercontent.com/FastCGI-Archives/fcgi2/master/doc/FCGI_SetExitStatus.3) (<tt>doc/FCGI_SetExitStatus.3</tt>), and [<tt>FCGI_StartFilterData</tt>](https://raw.githubusercontent.com/FastCGI-Archives/fcgi2/master/doc/FCGI_StartFilterData.3) (<tt>doc/FCGI_StartFilterData.3</tt>) manpages document capabilities of the <tt>fcgi-stdio</tt> library that are not illustrated above.
 
 #### <a name="S3.2">3.2 Using the <tt>fcgiapp</tt> library</a>
 
@@ -330,7 +330,7 @@ On most Unix platforms, executing this command-interpreter file runs <tt>cgi-fcg
 
 Continuing the example, if <tt>cgi-fcgi</tt>'s connection attempt fails, it creates a new process running the program <tt>examples/tiny-fcgi</tt> and listening on socket <tt>examples/sockets/tiny-fcgi</tt>. Then <tt>cgi-fcgi</tt> retries the connection attempt, which now should succeed.
 
-The <tt>cgi-fcgi</tt> program has two other modes of operation. In one mode it connects to applications but does not start them; in the other it starts applications but does not connect to them. These modes are required when using TCP/IP. The [<tt>cgi-fcgi</tt> manpage](https://raw.githubusercontent.com/FastCGI-Backups/fcgi2/master/doc/cgi-fcgi.1), <tt>doc/cgi-fcgi.1</tt>, tells the full story.
+The <tt>cgi-fcgi</tt> program has two other modes of operation. In one mode it connects to applications but does not start them; in the other it starts applications but does not connect to them. These modes are required when using TCP/IP. The [<tt>cgi-fcgi</tt> manpage](https://raw.githubusercontent.com/FastCGI-Archives/fcgi2/master/doc/cgi-fcgi.1), <tt>doc/cgi-fcgi.1</tt>, tells the full story.
 
 To run the example applications using <tt>cgi-fcgi</tt>, start your Web server and give it the directory <tt>fcgi-devel-kit</tt> as the root of its URL space. If the machine running your server is called <tt>bowser</tt> and your server is running on port <tt>8888</tt>, you'd then open the URL <tt>http://bowser:8888/index.html</tt> to reach the kit's index page. Now the links on the index page that run example applications via <tt>cgi-fcgi</tt> should be active.
 
