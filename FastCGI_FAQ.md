@@ -157,7 +157,7 @@ Yes! As a matter of fact, you can set up multiple versions of PHP, and also util
 
 ##### Build PHP
 
-First of all, build PHP. All of version 4 supports the FastCGI flag. Simply specify where to get the FastCGI libraries from (download and install them from the https://fastcgi-archives.github.io/ website), and do the normal build with whatever other options you require:
+First of all, build PHP. All of version 4 supports the FastCGI flag. Simply specify where to get the FastCGI libraries from (download and install them from the [https://fastcgi-archives.github.io/](https://fastcgi-archives.github.io/) website), and do the normal build with whatever other options you require:
 
 ```
 # ./configure --with-fastcgi=/usr/local
