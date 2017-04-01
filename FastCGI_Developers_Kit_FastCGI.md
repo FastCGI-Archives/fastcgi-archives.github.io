@@ -1,8 +1,11 @@
-# FastCGI
-
-### FastCGI Developer's Kit
+---
+title: FastCGI Developer's Kit
+description: This FastCGI Developer's Kit is designed to make developing FastCGI applications easy. The kit currently supports FastCGI applications written in C/C++, Perl, Tcl, and Java.
+layout: page
+---
 
 [Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)  
+
 Open Market, Inc.  
 
 Document Version: 1.08  
@@ -343,4 +346,4 @@ Use issue page on [FastCGI Archives github issue page](https://github.com/FastCG
 
 * * *
 
-**© Copyright 1996, Open Market, Inc. / [Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/) **
+**© Copyright 1996, Open Market, Inc. / [Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)**
