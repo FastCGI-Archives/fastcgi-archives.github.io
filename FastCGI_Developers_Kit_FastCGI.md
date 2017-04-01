@@ -48,7 +48,7 @@ The kit includes a [technical white paper](FastCGI_A_High-Performance_Web_Server
 
 The [FastCGI Specification](FastCGI_Specification.md), defines the interface between a FastCGI application and a Web server that supports FastCGI. The software in the kit implements the specification. You don't need to read the specification in order to write applications.
 
-Additional information is provided in the [FAQ](FastCGI%20FAQ.md) document, which contains frequently asked questions about application development using FastCGI, as well as some general information.
+Additional information is provided in the [FAQ](FastCGI_FAQ.md) document, which contains frequently asked questions about application development using FastCGI, as well as some general information.
 
 Experience with CGI programming will be extremely valuable in writing FastCGI applications. If you don't have enough experience with CGI programming, you should read one of the popular books on the topic or study the [CGI Spécification at W3 page](https://www.w3.org/CGI/).
 
