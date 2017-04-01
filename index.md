@@ -64,7 +64,7 @@ Scaling CGI with Perl  | [PDF](https://github.com/FastCGI-Archives/FastCGI.com/r
 
 The Apache FastCGI Implementation  | [PDF](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI.pdf) |  [PowerPoint](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/docs/FastCGI.ppt)
 
-## [The Apache FastCGI Process Manager](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/The%20Apache%20FastCGI%20Process%20Manager%20_%20FastCGI%20-.md)
+## [The Apache FastCGI Process Manager](The_Apache_FastCGI_Process_Manager_FastCGI.md)
 A description of some of the functionality of the process manager in mod_fastcgi. I'm not sure how accurate it is.
 
 # <a name="ServerSupport">Servers that support FastCGI<a>
