@@ -508,5 +508,5 @@ Setting the `FastCgiAccessCheckerAuthoritative` directive explicitly to _Off_ al
 
 By default, control is not passed on and a failed access check will result in a Forbidden reply. Disabling the default should be carefully considered.
 
-**© Copyright 1996 - 2008 Open Market, Rob Saccoccio & others, All rights reserved.**
+**© Copyright 1996 - 2008 Open Market, [Rob Saccoccio](https://www.linkedin.com/in/rob-saccoccio-792ba3b/) & others, All rights reserved.**
 
