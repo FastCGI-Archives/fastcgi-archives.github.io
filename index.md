@@ -98,6 +98,7 @@ A description of some of the functionality of the process manager in mod_fastcgi
 * MyServer - [http://www.myserverproject.net/](http://www.myserverproject.net/)
 * Pi3Web - [http://pi3web.sourceforge.net/](http://pi3web.sourceforge.net/)
 * Jetty - [http://www.eclipse.org/jetty/documentation/current/fastcgi.html](http://www.eclipse.org/jetty/documentation/current/fastcgi.html)
+* caddy web server [https://caddyserver.com/docs/fastcgi](https://caddyserver.com/docs/fastcgi)
 
 ## <a name="apilib">API/Libraries</a>
 
