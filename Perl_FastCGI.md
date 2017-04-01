@@ -1,4 +1,11 @@
-<a name="PerlSignals">How do I handle signals in Perl?</a> 
+---
+title: Perl FastCGI
+description: Specific Perl Usage of FastCGI.
+layout: page
+---
+
+
+# <a name="PerlSignals">How do I handle signals in Perl?</a> 
 
 There is a problem when Apache httpd terminates. Apache will send a USR1 or TERM signal.
 
@@ -96,7 +103,7 @@ sub abort_request() {
 }
 ```
 
-<a name="Perlfork">How do I use fork or exec ?</a>
+# <a name="Perlfork">How do I use fork or exec ?</a>
 
 When a request handle object is destroyed that has accepted a connection without finishing it, the connection will automatically be finished. Usually, this is what you want, although it is preferable to explicitly call the Finish() method. When you fork, however, without calling exec as well, i.e. when you have two instance of perl running, the request handle object will (eventually) be destroyed in _both_ instances of perl. As a result, a possible request being handled will be finished when the object is destroyed for the first time. This is probably not what you expect, since you will usually only be handling the request in either the parent or the child. To inhibit this unwanted request finishing, you can send the Detach() message to the request handle object. In a detached state, destruction will not lead to any finishing of requests. It is advised you call Detach() before forking and Attach afterwards (in the process that will continue handling the request).
 
@@ -135,7 +142,11 @@ while ($request->Accept() >= 0) {
 }
 ```
 
-<a name="perl_application_reload"></a>How can I get my application to reload when a new version is available? Mod_perl has Apache::Reload, and Apache::StatINC. Is there a similar mechanism for FastCGI? Assuming the application will automatically be restarted by mod_fastcgi (or another process manager), putting something like this at the end of your request loop should do it.
+# <a name="perl_application_reload"></a>How can I get my application to reload when a new version is available? 
+
+Mod_perl has Apache::Reload, and Apache::StatINC. Is there a similar mechanism for FastCGI? 
+
+Assuming the application will automatically be restarted by mod_fastcgi (or another process manager), putting something like this at the end of your request loop should do it.
 
 ```
  
