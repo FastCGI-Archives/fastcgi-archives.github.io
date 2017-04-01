@@ -2,7 +2,7 @@
 
 ### FastCGI Developer's Kit
 
-Mark R. Brown  
+[Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)  
 Open Market, Inc.  
 
 Document Version: 1.08  
@@ -339,10 +339,8 @@ On AIX there's a problem with shared listening sockets. The symptoms can include
 
 ### <a name="S6">6\. Getting support</a>
 
-The mailing list <tt>fastcgi-developers</tt> is used for discussions of issues in developing FastCGI applications. Topics include announcement of FastCGI-capable Web servers or changes to such servers, announcement of new application libraries or changes to such libraries, announcement of known bugs, discussion of design trade-offs in FastCGI application programming, and discussion of development plans and experiences. To join the list, see [http://fastcgi.com/fastcgi-developers](http://fastcgi.com/fastcgi-developers).
-
-A link to a mail archive can be found on the FastCGI home page, [fastcgi-archives.github.io](https://fastcgi-archives.github.io/)
+Use issue page on [FastCGI Archives github issue page](https://github.com/FastCGI-Archives/FastCGI.com/issues)
 
 * * *
 
-**© Copyright 1996, Open Market, Inc. / mbrown@openmarket.com**
+**© Copyright 1996, Open Market, Inc. / [Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/) **
