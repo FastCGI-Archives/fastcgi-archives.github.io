@@ -1,7 +1,9 @@
-# FastCGI: A High-Performance Gateway Interface
-
-Position paper for the workshop "Programming the Web - a search for APIs",  
+---
+title: FastCGI: A High-Performance Gateway Interface
+description: Position paper for the workshop "Programming the Web - a search for APIs",   </br >
 Fifth International World Wide Web Conference, 6 May 1996, Paris, France.  
+layout: page
+---
 
 [Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)
 
