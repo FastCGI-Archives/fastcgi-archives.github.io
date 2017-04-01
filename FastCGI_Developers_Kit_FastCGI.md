@@ -300,7 +300,7 @@ class TinyFCGI {
 
 ### <a name="S4.1">4.1 Using a Web server that supports FastCGI</a>
 
-For a current listing of Web servers that support FastCGI, see the [fastcgi-archives.github.io](https://fastcgi-archives.github.io/#ServerSupport) Web page.
+For a current listing of Web servers that support FastCGI, see the [fastcgi-archives.github.io](https://fastcgi-archives.github.io/?#ServerSupport) Web page.
 
 Some of the Web servers that support FastCGI perform management of FastCGI applications. You don't need to start and stop FastCGI applications; the Web server takes care of this. If an application process should crash, the Web server restarts it.
 
