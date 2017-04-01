@@ -1,6 +1,6 @@
 ---
-title: FastCGI: A High-Performance Gateway Interface
-description: Position paper for the workshop "Programming the Web - a search for APIs", </br > Fifth International World Wide Web Conference, 6 May 1996, Paris, France.
+title: "FastCGI: A High-Performance Gateway Interface"
+description: "Position paper for the workshop "Programming the Web - a search for APIs", </br > Fifth International World Wide Web Conference, 6 May 1996, Paris, France."
 layout: page
 ---
 
