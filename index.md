@@ -32,7 +32,7 @@ But, yes, we are here...
 
 ## [New FAQ](FAQ_Newer_FastCGI.md)
 
-## [FAQ](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20FAQ.md)
+## [FAQ](FastCGI_FAQ.md)
 Frequently asked questions, examples and explanations.
 
 ## [FastCGI White Paper](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI_%20A%20High-Performance%20Web%20Server%20Interface%20_%20FastCGI%20-.md)
