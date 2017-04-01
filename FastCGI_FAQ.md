@@ -522,7 +522,7 @@ Headers are terminated by an empty line, e.g.
 printf("Content-type: text/html\r\nStatus: 200 OK\r\n\r\n");
 ```
 
-`See the [CGI specification](https://www.w3.org/CGI/) for more information.`
+> See the [CGI specification](https://www.w3.org/CGI/) for more information.`
 
 ##### [Back to Top](#top)
 
