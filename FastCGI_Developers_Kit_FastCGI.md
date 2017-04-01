@@ -342,7 +342,7 @@ On AIX there's a problem with shared listening sockets. The symptoms can include
 
 ### <a name="S6">6\. Getting support</a>
 
-Use issue page on [FastCGI Archives github issue page](https://github.com/FastCGI-Archives/FastCGI.com/issues)
+Use issue page on [FastCGI Archives github issue page](https://github.com/FastCGI-Archives/fastcgi-archives.github.io/issues)
 
 * * *
 
