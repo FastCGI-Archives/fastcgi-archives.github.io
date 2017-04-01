@@ -30,7 +30,7 @@ But, yes, we are here...
 
 ## [FastCGI Licence](LICENCE.html)
 
-## [New FAQ](FAQ%20(Newer)%20_%20FastCGI%20-.md)
+## [New FAQ](FAQ (Newer) _ FastCGI -.md)
 
 ## [FAQ](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20FAQ.md)
 Frequently asked questions, examples and explanations.
