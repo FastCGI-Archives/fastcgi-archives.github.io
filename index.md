@@ -81,15 +81,16 @@ A description of some of the functionality of the process manager in mod_fastcgi
       * [Apache install instructions](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Apache%20Install%20_%20FastCGI%20-.md)
       * [Apache FAQ](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Apache%20FAQ%20_%20FastCGI%20-.md)
 
-* Microsoft IIS - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
-* Microsoft IIS (second generation) - [http://www.coastrd.com/Home](http://www.coastrd.com/Home) which supports SIGTERM and the Aprellium Abyss server as well
-* SunOne - [https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html](https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html)
+* Nginx - [http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html](http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html)
 * Lighttpd - [http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI](http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI)
+* Cherokee - [http://cherokee-project.com/doc/modules_handlers_fcgi.html](http://cherokee-project.com/doc/modules_handlers_fcgi.html)
+* Microsoft IIS - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
+* Microsoft IIS (second generation) - [http://www.coastrd.com/fastcgi](http://www.coastrd.com/fastcgi) which supports SIGTERM and the Aprellium Abyss server as well
+* Microsoft IIS >7 - [https://www.iis.net/configreference/system.webserver/fastcgi](https://www.iis.net/configreference/system.webserver/fastcgi)
+* SunOne - [https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html](https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html)
 * Premium thttpd [http://schumann.cx/premium-thttpd/](http://schumann.cx/premium-thttpd/)
 * MyServer - [http://www.myserverproject.net/](http://www.myserverproject.net/)
 * Pi3Web - [http://pi3web.sourceforge.net/](http://pi3web.sourceforge.net/)
-* Nginx - [http://wiki.nginx.org/NginxHttpFcgiModule](http://wiki.nginx.org/NginxHttpFcgiModule)
-* Cherokee - [http://cherokee-project.com/doc/modules_handlers_fcgi.html](http://cherokee-project.com/doc/modules_handlers_fcgi.html)
 
 ## <a name="apilib">API/Libraries</a>
 
@@ -103,27 +104,25 @@ The FastCGI application libraries.
     *   [Perl FCGI](http://www.cpan.org/modules/by-module/FCGI/)
     *   [FCGI wrapper for Microsoft ™ IIS](http://search.cpan.org/~cosmicnet/) by Lyle Hopkins.
     *   [FCGI](http://search.cpan.org/~skimo/) by Sven Verdoolaege.
-    *   [CGI::Fast](http://search.cpan.org/dist/CGI.pm/CGI/Fast.pm) by Lincoln D. Stein.
+    *   [CGI::Fast](http://search.cpan.org/dist/CGI-Fast/) by Lincoln D. Stein.
     *   [Perl Usage Instructions](Perl_FastCGI.md)
     *   [Catalyst](http://catalyst.perl.org/) MVC For Perl
 *   [PHP](http://www.php.net/)
     *   [PHP Usage Instructions](PHP_FastCGI.md)
     *   [Fastcgi Process manager 5.3.3](http://php-fpm.org/) 
     *   [Fastcgi Process Manager integrated in php >5.3](http://php.net/manual/fr/install.fpm.php)
-*   [Fastcgi for Ruby](https://rubyforge.org/projects/fcgi/)
+*   [Fastcgi for Ruby](http://www.rubydoc.info/gems/fcgi/)
 *   [Python](http://www.python.org/)
+    *   Native support of FastCGI [pyhton fastcgi](https://docs.python.org/2/howto/webservers.html#setting-up-fastcgi)
     *   Jon Ribbens' multi-threaded 'servlet' interface - [jonpy](http://jonpy.sourceforge.net/)
-    *   Peter Åstrand's multi-threaded module - [thfcgi.py](http://cvs.lysator.liu.se/viewcvs/viewcvs.cgi/webkom/thfcgi.py?cvsroot=webkom)
-    *   Andreas Jung's multi-threaded wrapper for fcgi.py - [sz_fcgi.py](http://www.suxers.de/python/fcgi.htm)
     *   Robin Dunn's improvements to Digicool's module - [fcgi.py](http://alldunn.com/python/fcgi.py)
 *   [TCL](http://www.tcl-tk.net/) - [TCL](http://www.nyx.net/~tpoindex/tcl.html#Fcgi)
 *   [Common Lisp](#CommonLisp)
 
-*   John Hinsdale's [module](http://clisp.cons.org/impnotes/modules.html#fastcgi) for [CLISP](http://clisp.cons.org/)
+*   John Hinsdale's [module](http://www.clisp.org/impnotes/fastcgi.html) for [CLISP](http://www.clisp.org/)
 *   Teemu Kalva's [module](http://www.s2.org/~chery/projects/fastcgi-cmucl) for [CMUCL](http://www.cons.org/cmucl/)
 
-*   [Goanna Eiffel](http://goanna.info/) - The Goanna Eiffel project includes a native implementation of FastCGI for use with its web application libraries.
-*   [Smalltalk](http://www.smalltalk.org/)
-    *   [FasTalk](http://www.mod.smalltalk.org/)
-    *   [FS FastCGI](http://www.dolphinharbor.org/dh/projects/fs/index.html) for [Dolphin Smalltalk](http://www.object-arts.com/)
+*   [Goanna Eiffel](http://goanna.sourceforge.net/) - The Goanna Eiffel project includes a native implementation of FastCGI for use with its web application libraries.
+*   [GNU Smalltalk](http://smalltalk.gnu.org/)
+    *   [NicolasPetton FCGI for gnu smalltalk](https://github.com/NicolasPetton/fcgi)
 *   Jeff Coffield's VMS [module](http://www.digitalsynergyinc.com/fastcgi.html).
