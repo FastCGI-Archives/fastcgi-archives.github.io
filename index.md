@@ -50,7 +50,7 @@ Programmer-oriented documentation for developers of FastCGI applications. The co
 ## [FastCGI Specification](FastCGI_Specification.md)
 Defines the interface between a FastCGI application and the Web server.
 
-## [FastCGI - A High-Performance Gateway Interface](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI_%20A%20High-Performance%20Gateway%20Interface%20_%20FastCGI%20-.md)
+## [FastCGI - A High-Performance Gateway Interface](FastCGI_A_High-Performance_Gateway_Interface_FastCGI.md)
 Position paper presented at the workshop "Programming the Web -- a search for APIs", Fifth International World Wide Web Conference, 6 May 1996, Paris, France.
 
 ## Rob's Open Source '99 Presentations
