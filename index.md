@@ -38,7 +38,7 @@ Frequently asked questions, examples and explanations.
 ## [FastCGI White Paper](FastCGI_A_High-Performance_Web_Server_Interface_FastCGI.md)
 Describes the motivation for FastCGI, the FastCGI interface, FastCGI application roles, the FastCGI application library, and FastCGI performance.
 
-## [Understanding FastCGI Application Performance](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Understanding%20FastCGI%20Application%20Performance%20_%20FastCGI%20-.md)
+## [Understanding FastCGI Application Performance](Understanding_FastCGI_Application_Performance_FastCGI.md)
 Why FastCGI applications often run faster than applications coded directly to Web server APIs.
 
 ## [FastCGI Developer' Kit](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20Developer's%20Kit%20_%20FastCGI%20-.md)
