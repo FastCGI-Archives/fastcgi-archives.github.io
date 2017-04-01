@@ -1,6 +1,6 @@
 ---
 title: FastCGI Specification
-description: This specification has narrow goal: to specify, from an application perspective, the interface between a FastCGI application and a Web server that supports FastCGI.
+description: This specification has narrow goal is to specify, from an application perspective, the interface between a FastCGI application and a Web server that supports FastCGI.
 layout: page
 ---
 
