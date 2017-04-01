@@ -79,7 +79,7 @@ A description of some of the functionality of the process manager in mod_fastcgi
        Current: [download](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/original_snapshot/mod_fastcgi-SNAP-0910052141.tar.gz) | [docs](mod_fastcgi.md) | git: [history](https://github.com/FastCGI-Archives/mod_fastcgi)
 
       * [Apache install instructions](Apache_Install_FastCGI.md)
-      * [Apache FAQ](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/Apache%20FAQ%20_%20FastCGI%20-.md)
+      * [Apache FAQ](Apache_FAQ_FastCGI.md)
 
 * Nginx - [http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html](http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html)
 * Lighttpd - [http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI](http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI)
