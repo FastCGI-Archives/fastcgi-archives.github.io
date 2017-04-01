@@ -5,10 +5,6 @@ layout: page
 ---
 
 Open Market, Inc.
-
-# FastCGI:  
-A High-Performance Web Server Interface
-
 April 1996
 
 * * *
