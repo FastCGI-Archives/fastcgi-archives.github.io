@@ -1,4 +1,8 @@
-# FastCGI FAQ
+---
+title: FastCGI FAQ
+description: This is the FastCGI FAQ.
+layout: page
+---
 
 Please feel free to contribute missing or incomplete pieces.
 
