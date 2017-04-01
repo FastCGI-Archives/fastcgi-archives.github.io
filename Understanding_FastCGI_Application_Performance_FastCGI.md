@@ -4,7 +4,7 @@ description: Just how fast is FastCGI? How does the performance of a FastCGI app
 layout: page
 ---
 
-Mark R. Brown  
+[Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)
 Open Market, Inc.  
 
 10 June 1996  
