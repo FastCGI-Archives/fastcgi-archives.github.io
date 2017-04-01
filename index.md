@@ -82,7 +82,9 @@ A description of some of the functionality of the process manager in mod_fastcgi
       * [Apache FAQ](Apache_FAQ_FastCGI.md)
 
 * Nginx - [http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html](http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html)
-* Lighttpd - [http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI](http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI)
+* Lighttpd :
+  - FastCGI Module : [http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI](http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI)
+  - FastCGI Usage : [https://redmine.lighttpd.net/projects/1/wiki/docs_modfastcgi](https://redmine.lighttpd.net/projects/1/wiki/docs_modfastcgi)
 * Cherokee - [http://cherokee-project.com/doc/modules_handlers_fcgi.html](http://cherokee-project.com/doc/modules_handlers_fcgi.html)
 * Microsoft IIS 
    - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
