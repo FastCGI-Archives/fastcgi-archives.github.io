@@ -1,6 +1,10 @@
-![[APACHE FEATHER BANNER]](http://httpd.apache.org/docs/images/sub.gif)
+---
+title: mod_fastcgi Apache 2 module
+description: This 3<sup>rd</sup> party module provides support for the FastCGI protocol to Apache 2.
+layout: page
+---
 
-# Module mod_fastcgi
+![[APACHE FEATHER BANNER]](http://httpd.apache.org/docs/images/sub.gif)
 
 This 3<sup>rd</sup> party module provides support for the FastCGI protocol. FastCGI is a language independent, scalable, open extension to CGI that provides high performance and persistence without the limitations of server specific APIs.
 
