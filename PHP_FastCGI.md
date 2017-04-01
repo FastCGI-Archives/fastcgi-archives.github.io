@@ -55,11 +55,11 @@ export PHP_FCGI_CHILDREN
 exec /usr/local/bin/php-fcgi  
 ```
 
-This script lets you set a specific .ini file. In the example, PHP will read in /usr/local/etc/php/client/php.ini for configuration parameters. The number of running children is controlled by the PHP_FCGI_CHILDREN variable. If this is set to 0, then PHP will not fork a process manager but instead run only as a worker thread. If you are worried about memory leaks (memory leaks? In PHP?) then you can set PHP_FCGI_MAX_REQUESTS, to cause worker children to exit after that many requests.
+This script lets you set a specific .ini file. In the example, PHP will read in /usr/local/etc/php/client/php.ini for configuration parameters. The number of running children is controlled by the `PHP_FCGI_CHILDREN` variable. If this is set to 0, then PHP will not fork a process manager but instead run only as a worker thread. If you are worried about memory leaks (memory leaks? In PHP?) then you can set `PHP_FCGI_MAX_REQUESTS`, to cause worker children to exit after that many requests.
 
 A script like this also lets you easily control which versions you're running - on our servers, we might have three, four, or more versions running all at the same time. This is very handy when testing upgrades, because you don't have to touch the web server across the board, only on a per-domain basis.
 
-The README.FastCGI file, located in the PHP source, provides additional details on these and some other useful variables.
+The [README.FastCGI](https://github.com/php/php-src/blob/PHP-5.6/sapi/cgi/README.FastCGI) file, located in the PHP source, provides additional details on these and some other useful variables.
 
 ## Confusing FastCGI and PHP Process Managers
 
@@ -67,7 +67,7 @@ One of the problems people seem to run into most often is when you have competin
 
 ## Some Last Notes
 
-*   If you are using a dynamic application environment, make sure that PHP_FCGI_CHILDREN is always set to 0; that way, PHP will never try to manage worker threads.  
+*   If you are using a dynamic application environment, make sure that `PHP_FCGI_CHILDREN` is always set to 0; that way, PHP will never try to manage worker threads.  
 
 *   If you are using a static environment, decide where you're going to control it and make it clear in the comments in your httpd.conf so you remember six months later!  
 
