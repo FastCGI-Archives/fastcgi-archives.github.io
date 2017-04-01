@@ -1,6 +1,6 @@
 ---
 title: FastCGI Developer's Kit
-description: This FastCGI Developer's Kit is designed to make developing FastCGI applications easy. The kit currently supports FastCGI applications written in C/C++, Perl, Tcl, and Java.
+description: This FastCGI Developer's Kit is designed to make developing FastCGI applications easy. </br > The kit currently supports FastCGI applications written in C/C++, Perl, Tcl, and Java.
 layout: page
 ---
 
