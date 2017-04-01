@@ -90,6 +90,7 @@ A description of some of the functionality of the process manager in mod_fastcgi
    - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
    - (second generation) - [http://www.coastrd.com/fastcgi](http://www.coastrd.com/fastcgi) which supports SIGTERM and the Aprellium Abyss server as well
    - IIS >7 - [https://www.iis.net/configreference/system.webserver/fastcgi](https://www.iis.net/configreference/system.webserver/fastcgi)
+* Resin [http://wiki4.caucho.com/Application_Server:_Native_PHP_With_FastCGIServlet](http://wiki4.caucho.com/Application_Server:_Native_PHP_With_FastCGIServlet)
 * SunOne - [https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html](https://docs.oracle.com/cd/E19146-01/821-1828/6nmpm01ns/index.html)
 * Premium thttpd [http://schumann.cx/premium-thttpd/](http://schumann.cx/premium-thttpd/)
 * MyServer - [http://www.myserverproject.net/](http://www.myserverproject.net/)
