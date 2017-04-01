@@ -4,7 +4,6 @@ description: Position paper for the workshop "Programming the Web - a search for
 layout: page
 ---
 
-
 [Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)
 
 Open Market, Inc.  
