@@ -1,6 +1,10 @@
-Open Market, Inc.
+---
+title: FastCGI - A High-Performance Web Server Interface
+description: This is Technical White Paper.
+layout: page
+---
 
-Technical White Paper  
+Open Market, Inc.
 
 # FastCGI:  
 A High-Performance Web Server Interface
