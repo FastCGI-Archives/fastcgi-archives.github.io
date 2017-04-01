@@ -528,4 +528,4 @@ printf("Content-type: text/html\r\nStatus: 200 OK\r\n\r\n");
 
 * * *
 
-*Copyright © 2000, 2001   Rob Saccoccio [robs @ fastcgi.com]   All rights reserved*
+*Copyright © 2000, 2001   [Rob Saccoccio](https://www.linkedin.com/in/rob-saccoccio-792ba3b/)   All rights reserved*
