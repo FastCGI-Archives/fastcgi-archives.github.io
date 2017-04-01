@@ -107,4 +107,4 @@ Today's Web business applications need a platform that's fast, open, maintainabl
 
 For more information about FastCGI, visit the [fastcgi-archives.github.io Web site](https://fastcgi-archives.github.io/).
 
-**© Copyright 1996 - 2014 Open Market, Rob Saccoccio & others, All rights reserved.**
+**© Copyright 1996 - 2014 Open Market, [Rob Saccoccio](https://www.linkedin.com/in/rob-saccoccio-792ba3b/) & others, All rights reserved.**
