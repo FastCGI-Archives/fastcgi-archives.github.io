@@ -1,4 +1,8 @@
-### Understanding FastCGI Application Performance
+---
+title: Understanding FastCGI Application Performance FastCGI
+description: Just how fast is FastCGI? How does the performance of a FastCGI application compare with the performance of the same application implemented using a Web server API?
+layout: page
+---
 
 Mark R. Brown  
 Open Market, Inc.  
