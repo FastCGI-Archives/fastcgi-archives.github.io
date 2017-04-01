@@ -5,6 +5,7 @@ layout: page
 ---
 
 [Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)
+
 Open Market, Inc.  
 
 10 June 1996  
