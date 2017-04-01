@@ -100,6 +100,8 @@ The FastCGI application libraries.
 *   The Development Kit - **C**, **C++**, **Perl**, and **Java**, libraries as well as assorted documentation.  
 
     Current: [download](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/original_snapshot/fcgi-2.4.1-SNAP-0910052249.tar.gz) | [docs](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/fcgi2/blob/master/doc/overview.html) | [browse](https://github.com/FastCGI-Archives/fcgi2)
+*   [Wireshark protocol decode module](https://wiki.wireshark.org/FastCGI)
+
 *   [PHP](http://www.php.net/)
     *   [PHP Usage Instructions](PHP_FastCGI.md)
     *   [Fastcgi Process manager 5.3.3](http://php-fpm.org/) 
@@ -116,7 +118,14 @@ The FastCGI application libraries.
     *   Native support of FastCGI [pyhton fastcgi](https://docs.python.org/2/howto/webservers.html#setting-up-fastcgi)
     *   Jon Ribbens' multi-threaded 'servlet' interface - [jonpy](http://jonpy.sourceforge.net/)
     *   Robin Dunn's improvements to Digicool's module - [fcgi.py](http://alldunn.com/python/fcgi.py)
-
+*   [FastCGI for .NET](http://fastcgi-for-net.readthedocs.io/en/latest/)
+*   [FastCGI / CGI C++ Library](http://cgi.sourceforge.net/)
+*   [Go fcgi package](https://golang.org/pkg/net/http/fcgi/)
+*   [Nodejs FastCGI](https://www.npmjs.com/package/fastcgi)
+*   [kcgi – minimal CGI and FastCGI library in C](https://kristaps.bsd.lv/kcgi/archive.html)
+*   [Rust FastCGI package](https://crates.io/crates/fastcgi)
+*   [Lua FastCGI extension](https://github.com/LuaDist/fcgi)
+*   [haskell FastCGI package](https://hackage.haskell.org/package/fastcgi)
 *   [FastCGI4D](http://dsource.org/projects/fastcgi4d/wiki) A Tango compatible FastCGI library for the D language
 *   [TCL](http://www.tcl-tk.net/) - [TCL](http://www.nyx.net/~tpoindex/tcl.html#Fcgi)
 *   [Common Lisp](#CommonLisp)
@@ -126,3 +135,7 @@ The FastCGI application libraries.
 *   [GNU Smalltalk](http://smalltalk.gnu.org/)
     *   [NicolasPetton FCGI for gnu smalltalk](https://github.com/NicolasPetton/fcgi)
 *   Jeff Coffield's VMS [module](http://www.digitalsynergyinc.com/fastcgi.html).
+
+# Articles on FastCGI
+
+*  [FastCGI — The Forgotten Treasur](http://www.nongnu.org/fastcgi/) Peter Simons
