@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FastCGI process manager for Apache web server.
-description: The process manager is an executable program that is responsible for controlling the execution of the FastCGI applications.
+title: FastCGI process manager </br > for Apache web server.
+description: The process manager is an executable program that is responsible </br > for controlling the execution of the FastCGI applications.
 ---
 
 # FastCGI process manager for Apache web server.
