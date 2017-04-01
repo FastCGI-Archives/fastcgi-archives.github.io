@@ -28,9 +28,9 @@ There is not much development on FastCGI because it is a very stable protocol / 
 
 But, yes, we are here...
 
-## [FastCGI Licence](LICENCE.html)
+## [FastCGI Licence](LICENCE)
 
-## [New FAQ](FAQ (Newer) _ FastCGI -.md)
+## [New FAQ](FAQ_Newer_FastCGI)
 
 ## [FAQ](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/docs/FastCGI%20FAQ.md)
 Frequently asked questions, examples and explanations.
