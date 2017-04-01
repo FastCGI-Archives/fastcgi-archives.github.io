@@ -54,7 +54,7 @@ Experience with CGI programming will be extremely valuable in writing FastCGI ap
 
 ### <a name="S2">2\. Getting started</a>
 
-The kit is a compressed tar (tar.Z) file, distributed via the [fastcgi-archives.github.io](https://fastcgi-archives.github.io/) Web page. Unpacking the tar file creates a new directory <tt>fcgi-devel-kit</tt>.
+The kit is a compressed tar (tar.Z) file, distributed via the [fastcgi-archives.github.io](https://fastcgi-archives.github.io/?#apilib) Web page. Unpacking the tar file creates a new directory <tt>fcgi-devel-kit</tt>.
 
 Open the kit's index page, <tt>fcgi-devel-kit/index.html</tt>, using the "Open File" command in your Web browser. The index page gives you an overview of the kit structure and helps you navigate the kit. The index page also contains links that run some example applications, but the applications won't work when index.html is opened using the "Open File" command because they aren't aren't being accessed through a Web server.
 
@@ -234,7 +234,7 @@ A major advantage of the FastCGI approach to high-performance Web applications i
 
 We have produced FastCGI-integrated Perl and Tcl interpreters. Doing so was easy, since Perl and Tcl are conventional C applications and <tt>fcgi_stdio</tt> was designed for converting conventional C applications. Essentially no source code changes were required in these programs; a small amount of code was added in order to make <tt>FCGI_Accept</tt> and other FastCGI primitives available in these languages. And because these interpreters were developed using <tt>fcgi_stdio</tt>, they run standard Perl and Tcl applications (e.g. CGI scripts) as well as FastCGI applications.
 
-See the [fastcgi-archives.github.io](https://fastcgi-archives.github.io/) Web page for more information about the Perl and Tcl libraries.
+See the [fastcgi-archives.github.io](https://fastcgi-archives.github.io/?#apilib) Web page for more information about the Perl and Tcl libraries.
 
 Here are the Perl and Tcl versions of <tt>tiny-fcgi</tt>:
 
