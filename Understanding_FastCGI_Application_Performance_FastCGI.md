@@ -166,4 +166,4 @@ Just how fast is FastCGI? The answer: very fast indeed. Not because it has some 
 
 * * *
 
-**© 1995, Open Market, Inc. / mbrown@openmarket.com**
+**© 1995, Open Market, Inc. / [Mark R. Brown](https://www.linkedin.com/in/mark-brown-32a01b11/)**
