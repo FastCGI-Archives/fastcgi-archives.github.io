@@ -12,15 +12,17 @@ Since fastcgi.com is not available anymore, I ([mcarbonneaux](https://github.com
 
 ## Contents
 
-This repository contains two version of the backup :
+This repository contains two version of the backup of the site :
 
   * The original version from fastcgi.com, pulled from the Wayback Machine archive, at [FastCGI-Archives/FastCGI.com](https://github.com/FastCGI-Archives/FastCGI.com/tree/master/docs) github project.
 
   * A markdown version, manually converted from the original, at [FastCGI-Archives/fastcgi-archives.github.io](https://github.com/FastCGI-Archives/fastcgi-archives.github.io). 
   
-  * In [FastCGI-Archives/fcgi2 github project](https://github.com/FastCGI-Archives/fcgi2) you have the source of the fcgi sdk.
-  
-  * In [FastCGI-Archives/mod_fastcgi github project](https://github.com/FastCGI-Archives/mod_fastcgi) you have the source of the apache mod_fastcgi module.
+This repository also contains two version of the backup of the original site source code :
+  * in [FastCGI-Archives/FastCGI.com github project](https://github.com/FastCGI-Archives/FastCGI.com/tree/master/original_snapshot) are the original last snapshot of the source of the fcgi sdk and mod_fastcgi apache module.
+
+  * In [FastCGI-Archives/fcgi2 github project](https://github.com/FastCGI-Archives/fcgi2) you have the source fork of the fcgi sdk.
+  * In [FastCGI-Archives/mod_fastcgi github project](https://github.com/FastCGI-Archives/mod_fastcgi) you have the source fork of the apache mod_fastcgi module.
   
   
 ## FastCGI Specification copyright
