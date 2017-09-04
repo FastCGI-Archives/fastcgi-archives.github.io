@@ -2,6 +2,7 @@
 layout: default
 title: FastCGI.com Archives
 description: This is the Github FastCGI Archives of FastCGI.com site.
+meta: fastcgi, cgi, protocol
 ---
 
 # About FastCGI
