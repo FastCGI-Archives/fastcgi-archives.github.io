@@ -11,6 +11,6 @@ description: This is the Github FastCGI Archives of FastCGI.com site.
 google_analytics: UA-3441258-6
 piwik_analytics: 5
 piwik_url: piwik.ch2o.info
-keywords: fastcgi, cgi, protocol specification, php-fpm, apache, mod_proxy_fastcgi, mod_fastcgi, fcgi2, fcgi sdk, nginx fastcgi, ngx_http_fastcgi_module, ligthttpd, cherokee, perl, python, ruby
+keywords: fastcgi, fastcgi overview, cgi, protocol specification, php-fpm, apache, mod_proxy_fastcgi, mod_fastcgi, fcgi2, fcgi sdk, nginx fastcgi, ngx_http_fastcgi_module, ligthttpd, cherokee, perl, python, ruby
 plugins:
   - jekyll-sitemap
