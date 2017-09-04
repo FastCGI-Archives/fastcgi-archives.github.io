@@ -5,6 +5,27 @@ description: This is the Github FastCGI Archives of FastCGI.com site.
 meta: fastcgi, cgi, protocol
 ---
 
+
+# FastCGI Spec
+
+Since fastcgi.com is not available anymore, I ([mcarbonneaux](https://github.com/mcarbonneaux)) created this repository and linked website [fastcgi-archives.github.io](https://fastcgi-archives.github.io/) to host the FastCGI information backup.
+
+## Contents
+
+This repository contains two version of the backup :
+
+  * The original version from fastcgi.com, pulled from the Wayback Machine archive, at [FastCGI-Archives/FastCGI.com](https://github.com/FastCGI-Archives/FastCGI.com/tree/master/docs) github project.
+
+  * A markdown version, manually converted from the original, at [FastCGI-Archives/fastcgi-archives.github.io](https://github.com/FastCGI-Archives/fastcgi-archives.github.io). 
+  
+## FastCGI Specification copyright
+
+This is not an official repository nor is it linked in any way to the original fastcgi.com website and FastCGI copyright owners.
+
+The FastCGI Specification is intellectual property of Open Market Inc.  
+Copyright © 1996 Open Market, Inc. 245 First Street, Cambridge, MA 02142 U.S.A.  
+Tel: 617-621-9500 Fax: 617-621-1703 URL: http://www.openmarket.com/
+
 # About FastCGI
 
 ### FastCGI is simple because it is actually CGI with only a few extensions.
