@@ -18,6 +18,11 @@ This repository contains two version of the backup :
 
   * A markdown version, manually converted from the original, at [FastCGI-Archives/fastcgi-archives.github.io](https://github.com/FastCGI-Archives/fastcgi-archives.github.io). 
   
+  * In [FastCGI-Archives/fcgi2 github project](https://github.com/FastCGI-Archives/fcgi2) you have the source of the fcgi sdk.
+  
+  * In [FastCGI-Archives/mod_fastcgi github project](https://github.com/FastCGI-Archives/mod_fastcgi) you have the source of the apache mod_fastcgi module.
+  
+  
 ## FastCGI Specification copyright
 
 This is not an official repository nor is it linked in any way to the original fastcgi.com website and FastCGI copyright owners.
