@@ -155,6 +155,7 @@ The FastCGI application libraries.
     *   Native support of FastCGI [pyhton fastcgi](https://docs.python.org/2/howto/webservers.html#setting-up-fastcgi)
     *   Jon Ribbens' multi-threaded 'servlet' interface - [jonpy](http://jonpy.sourceforge.net/)
     *   Robin Dunn's improvements to Digicool's module - [fcgi.py](http://alldunn.com/python/fcgi.py)
+    *   Quentin Pradet's fork of flup-py module for Python 3 - [flup-py3](https://github.com/pquentin/flup-py3)
 *   [FastCGI for .NET](http://fastcgi-for-net.readthedocs.io/en/latest/)
 *   [FastCGI / CGI C++ Library](http://cgi.sourceforge.net/)
 *   [jFastCGI Servlet](http://jfastcgi.org/)
