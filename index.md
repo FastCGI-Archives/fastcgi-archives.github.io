@@ -161,7 +161,9 @@ The FastCGI application libraries.
 *   [Golang](https://golang.org)
     *   [fcgi](https://golang.org/pkg/net/http/fcgi/) - Core library for implementing fastcgi application (responder role only).
     *   [gofast](https://github.com/yookoala/gofast) - Library for implementing fastcgi web server.
-*   [Nodejs FastCGI](https://www.npmjs.com/package/fastcgi)
+*   [Nodejs](https://nodejs.org/)
+    *   [fastcgi](https://www.npmjs.com/package/fastcgi) - An extremely simple web server that serves a FastCGI application.
+    *   [node-fastcgi](https://www.npmjs.com/package/node-fastcgi) - Library for implementing fastcgi application (all 3 roles).
 *   [kcgi – minimal CGI and FastCGI library in C](https://kristaps.bsd.lv/kcgi/archive.html)
 *   [Rust FastCGI package](https://crates.io/crates/fastcgi)
 *   [Lua FastCGI extension](https://github.com/LuaDist/fcgi)
