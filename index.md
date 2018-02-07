@@ -16,21 +16,21 @@ This repository contains the backup of the original site :
 
   * The original version from fastcgi.com, pulled from the Wayback Machine archive, at [FastCGI-Archives/FastCGI.com](https://github.com/FastCGI-Archives/FastCGI.com/tree/master/docs) github project.
 
-  * A markdown version, manually converted from the original, at [FastCGI-Archives/fastcgi-archives.github.io](https://github.com/FastCGI-Archives/fastcgi-archives.github.io). 
-  
+  * A markdown version, manually converted from the original, at [FastCGI-Archives/fastcgi-archives.github.io](https://github.com/FastCGI-Archives/fastcgi-archives.github.io).
+
 This repository also contains the backup the original site source code :
   * In [FastCGI-Archives/FastCGI.com github project](https://github.com/FastCGI-Archives/FastCGI.com/tree/master/original_snapshot) are the original last snapshot pulled from the Wayback Machine archive of the source of the fcgi sdk and mod_fastcgi apache module.
 
   * In [FastCGI-Archives/fcgi2 github project](https://github.com/FastCGI-Archives/fcgi2) the source fork of the fcgi sdk.
   * In [FastCGI-Archives/mod_fastcgi github project](https://github.com/FastCGI-Archives/mod_fastcgi) the source fork of the apache mod_fastcgi module.
-  
-  
+
+
 ## FastCGI Specification copyright
 
 This is not an official repository nor is it linked in any way to the original fastcgi.com website and FastCGI copyright owners.
 
-The FastCGI Specification is intellectual property of Open Market Inc.  
-Copyright © 1996 Open Market, Inc. 245 First Street, Cambridge, MA 02142 U.S.A.  
+The FastCGI Specification is intellectual property of Open Market Inc.
+Copyright © 1996 Open Market, Inc. 245 First Street, Cambridge, MA 02142 U.S.A.
 Tel: 617-621-9500 Fax: 617-621-1703 URL: http://www.openmarket.com/
 
 # About FastCGI
@@ -102,9 +102,9 @@ A description of some of the functionality of the process manager in mod_fastcgi
      - [mod_proxy_fcgi](https://httpd.apache.org/docs/2.4/mod/mod_proxy_fcgi.html)
      - [mod_authnz_fcgi](https://httpd.apache.org/docs/2.4/mod/mod_authnz_fcgi.html)
   * Apache 2.x [Mod_fcgid](http://httpd.apache.org/mod_fcgid/)
-  
-  * Open Market mod_fastcgi free, open-source Apache httpd module. 
-  
+
+  * Open Market mod_fastcgi free, open-source Apache httpd module.
+
        Current: [download](https://github.com/FastCGI-Archives/FastCGI.com/blob/master/original_snapshot/mod_fastcgi-SNAP-0910052141.tar.gz) | [docs](mod_fastcgi.md) | git: [history](https://github.com/FastCGI-Archives/mod_fastcgi)
 
       * [Apache install instructions](Apache_Install_FastCGI.md)
@@ -115,7 +115,7 @@ A description of some of the functionality of the process manager in mod_fastcgi
   - FastCGI Module : [http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI](http://trac.lighttpd.net/trac/wiki/Docs%3AModFastCGI)
   - FastCGI Usage : [https://redmine.lighttpd.net/projects/1/wiki/docs_modfastcgi](https://redmine.lighttpd.net/projects/1/wiki/docs_modfastcgi)
 * Cherokee - [http://cherokee-project.com/doc/modules_handlers_fcgi.html](http://cherokee-project.com/doc/modules_handlers_fcgi.html)
-* Microsoft IIS 
+* Microsoft IIS
    - [http://www.iis.net/fastcgi/configuration](http://www.iis.net/fastcgi/configuration)
    - (second generation) - [http://www.coastrd.com/fastcgi](http://www.coastrd.com/fastcgi) which supports SIGTERM and the Aprellium Abyss server as well
    - IIS >7 - [https://www.iis.net/configreference/system.webserver/fastcgi](https://www.iis.net/configreference/system.webserver/fastcgi)
@@ -133,14 +133,14 @@ A description of some of the functionality of the process manager in mod_fastcgi
 
 The FastCGI application libraries.
 
-*   The Development Kit - **C**, **C++**, **Perl**, and **Java**, libraries as well as assorted documentation.  
+*   The Development Kit - **C**, **C++**, **Perl**, and **Java**, libraries as well as assorted documentation.
 
     Current: [download](https://github.com/FastCGI-Archives/FastCGI.com/raw/master/original_snapshot/fcgi-2.4.1-SNAP-0910052249.tar.gz) | [docs](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/fcgi2/blob/master/doc/overview.html) | [browse](https://github.com/FastCGI-Archives/fcgi2)
 *   [Wireshark protocol decode module](https://wiki.wireshark.org/FastCGI)
 
 *   [PHP](http://www.php.net/)
     *   [PHP Usage Instructions](PHP_FastCGI.md)
-    *   [Fastcgi Process manager 5.3.3](http://php-fpm.org/) 
+    *   [Fastcgi Process manager 5.3.3](http://php-fpm.org/)
     *   [Fastcgi Process Manager integrated in php >5.3](http://php.net/manual/fr/install.fpm.php)
     *   [HHVM FastCGI support](http://hhvm.com/blog/1817/fastercgi-with-hhvm)
 *   [Perl](http://www.perl.org/)
@@ -155,11 +155,16 @@ The FastCGI application libraries.
     *   Native support of FastCGI [pyhton fastcgi](https://docs.python.org/2/howto/webservers.html#setting-up-fastcgi)
     *   Jon Ribbens' multi-threaded 'servlet' interface - [jonpy](http://jonpy.sourceforge.net/)
     *   Robin Dunn's improvements to Digicool's module - [fcgi.py](http://alldunn.com/python/fcgi.py)
+    *   Quentin Pradet's fork of flup-py module for Python 3 - [flup-py3](https://github.com/pquentin/flup-py3)
 *   [FastCGI for .NET](http://fastcgi-for-net.readthedocs.io/en/latest/)
 *   [FastCGI / CGI C++ Library](http://cgi.sourceforge.net/)
 *   [jFastCGI Servlet](http://jfastcgi.org/)
-*   [Go fcgi package](https://golang.org/pkg/net/http/fcgi/)
-*   [Nodejs FastCGI](https://www.npmjs.com/package/fastcgi)
+*   [Golang](https://golang.org)
+    *   [fcgi](https://golang.org/pkg/net/http/fcgi/) - Core library for implementing fastcgi application (responder role only).
+    *   [gofast](https://github.com/yookoala/gofast) - Library for implementing fastcgi web server.
+*   [Nodejs](https://nodejs.org/)
+    *   [fastcgi](https://www.npmjs.com/package/fastcgi) - An extremely simple web server that serves a FastCGI application.
+    *   [node-fastcgi](https://www.npmjs.com/package/node-fastcgi) - Library for implementing fastcgi application (all 3 roles).
 *   [kcgi – minimal CGI and FastCGI library in C](https://kristaps.bsd.lv/kcgi/archive.html)
 *   [Rust FastCGI package](https://crates.io/crates/fastcgi)
 *   [Lua FastCGI extension](https://github.com/LuaDist/fcgi)
