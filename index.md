@@ -171,13 +171,15 @@ The FastCGI application libraries.
 *   [haskell FastCGI package](https://hackage.haskell.org/package/fastcgi)
 *   [FastCGI4D](http://dsource.org/projects/fastcgi4d/wiki) A Tango compatible FastCGI library for the D language
 *   [TCL](http://www.tcl-tk.net/) - [TCL](http://www.nyx.net/~tpoindex/tcl.html#Fcgi)
-*   [Common Lisp](#CommonLisp)
-*   John Hinsdale's [module](http://www.clisp.org/impnotes/fastcgi.html) for [CLISP](http://www.clisp.org/)
-*   Teemu Kalva's [module](http://www.s2.org/~chery/projects/fastcgi-cmucl) for [CMUCL](http://www.cons.org/cmucl/)
+*   Common Lisp
+    *   John Hinsdale's [module](http://www.clisp.org/impnotes/fastcgi.html) for [CLISP](http://www.clisp.org/)
+    *   Teemu Kalva's [module](http://www.s2.org/~chery/projects/fastcgi-cmucl) for [CMUCL](http://www.cons.org/cmucl/)
 *   [Goanna Eiffel](http://goanna.sourceforge.net/) - The Goanna Eiffel project includes a native implementation of FastCGI for use with its web application libraries.
 *   [GNU Smalltalk](http://smalltalk.gnu.org/)
     *   [NicolasPetton FCGI for gnu smalltalk](https://github.com/NicolasPetton/fcgi)
 *   Jeff Coffield's VMS [module](http://www.digitalsynergyinc.com/fastcgi.html).
+*   Scheme
+    *    Phil Eaton's [module](https://github.com/eatonphil/pine) for Chicken Scheme
 
 # Articles on FastCGI
 
