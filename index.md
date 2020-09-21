@@ -6,18 +6,11 @@ meta: fastcgi, cgi, protocol
 ---
 
 
-# FastCGI original official site
+# About FastCGI original official site
 
-Since fastcgi.com is not available anymore, I ([mcarbonneaux](https://github.com/mcarbonneaux)) created this repository and linked website [fastcgi-archives.github.io](https://fastcgi-archives.github.io/) to host the FastCGI information backup.
+Since fastcgi.com is not available anymore (last backup on wayback machine are at [20/03/2016](http://web.archive.org/web/20160320065247/http://www.fastcgi.com/drupal/)), I ([mcarbonneaux](https://github.com/mcarbonneaux)) created this repository and linked website [fastcgi-archives.github.io](https://fastcgi-archives.github.io/) to host the FastCGI information backup.
 
-# Original maintainer and autor 
-
-based on last backup on wayback machine at [13/03/2016](https://web.archive.org/web/20160313121910/http://fastcgi.com/drupal/node/8):
-- Original designer and developer: [Mark R. Brown when at OpenMarket](https://www.linkedin.com/in/mark-brown-32a01b11/)
-- Last Maintainer: [Rob Saccoccio (when at Infinite Technology Inc.)](https://www.linkedin.com/in/rob-saccoccio-792ba3b/)
-- Website Editor: [Daniel Lo](https://www.linkedin.com/in/lodaniel/)
-
-## Contents
+## Contents of this site
 
 This repository contains the backup of the original site :
 
@@ -40,7 +33,17 @@ The FastCGI Specification is intellectual property of Open Market Inc.
 Copyright © 1996 Open Market, Inc. 245 First Street, Cambridge, MA 02142 U.S.A.
 Tel: 617-621-9500 Fax: 617-621-1703 URL: http://www.openmarket.com/
 
-# About FastCGI
+# Original maintainers and autor at FastCGI.com
+
+Based on last backup on wayback machine at [13/03/2016](https://web.archive.org/web/20160313121910/http://fastcgi.com/drupal/node/8):
+- Original designer and developer: [Mark R. Brown (when at OpenMarket)](https://www.linkedin.com/in/mark-brown-32a01b11/)
+- Last Maintainer: [Rob Saccoccio (when at Infinite Technology Inc.)](https://www.linkedin.com/in/rob-saccoccio-792ba3b/)
+- Website Editor: [Daniel Lo](https://www.linkedin.com/in/lodaniel/)
+- PERL ISS Windows binaries.: [Lyle Hopkins](https://www.linkedin.com/in/hopkinslyle/)
+- Wrote and maintains the indispensable FCGI module for Perl : [Sven Verdoolaege](https://www.linkedin.com/in/skimo/)
+- Cheer leading, testing, and system administration advice and support : David Birnbaum
+
+# About FastCGI protocol
 
 ### FastCGI is simple because it is actually CGI with only a few extensions.
 
