@@ -6,9 +6,16 @@ meta: fastcgi, cgi, protocol
 ---
 
 
-# FastCGI Spec
+# FastCGI original official site
 
 Since fastcgi.com is not available anymore, I ([mcarbonneaux](https://github.com/mcarbonneaux)) created this repository and linked website [fastcgi-archives.github.io](https://fastcgi-archives.github.io/) to host the FastCGI information backup.
+
+# Original maintainer and autor 
+
+based on last backup on wayback machine at [13/03/2016](https://web.archive.org/web/20160313121910/http://fastcgi.com/drupal/node/8):
+- Original designer and developer: [Mark R. Brown when at OpenMarket](https://www.linkedin.com/in/mark-brown-32a01b11/)
+- Last Maintainer: [Rob Saccoccio (when at Infinite Technology Inc.)](https://www.linkedin.com/in/rob-saccoccio-792ba3b/)
+- Website Editor: [Daniel Lo](https://www.linkedin.com/in/lodaniel/)
 
 ## Contents
 
