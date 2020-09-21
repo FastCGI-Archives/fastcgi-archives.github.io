@@ -33,7 +33,7 @@ The FastCGI Specification is intellectual property of Open Market Inc.
 Copyright © 1996 Open Market, Inc. 245 First Street, Cambridge, MA 02142 U.S.A.
 Tel: 617-621-9500 Fax: 617-621-1703 URL: http://www.openmarket.com/
 
-# Original maintainers and autor at FastCGI.com
+# About original maintainers and autor at FastCGI.com
 
 Based on last backup on wayback machine at [13/03/2016](https://web.archive.org/web/20160313121910/http://fastcgi.com/drupal/node/8):
 - Original designer and developer: [Mark R. Brown (when at OpenMarket)](https://www.linkedin.com/in/mark-brown-32a01b11/)
