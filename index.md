@@ -167,7 +167,9 @@ The FastCGI application libraries.
     *   Robin Dunn's improvements to Digicool's module - [fcgi.py](http://alldunn.com/python/fcgi.py)
     *   Quentin Pradet's fork of flup-py module for Python 3 - [flup-py3](https://github.com/pquentin/flup-py3)
 *   [FastCGI for .NET](http://fastcgi-for-net.readthedocs.io/en/latest/)
-*   [FastCGI / CGI C++ Library](http://cgi.sourceforge.net/)
+*   [C](http://www.iso-9899.info/wiki/The_Standard)/[C++](https://isocpp.org/)
+    * [FastCGI / CGI C++ Library](http://cgi.sourceforge.net/)
+    * [FastCGI++ (C++14)](https://github.com/eddic/fastcgipp)
 *   [jFastCGI Servlet](http://jfastcgi.org/)
 *   [Golang](https://golang.org)
     *   [fcgi](https://golang.org/pkg/net/http/fcgi/) - Core library for implementing fastcgi application (responder role only).
