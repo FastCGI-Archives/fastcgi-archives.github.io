@@ -14,7 +14,7 @@ Since fastcgi.com is not available anymore, I ([mcarbonneaux](https://github.com
 
 This repository contains the backup of the original site :
 
-  * The original version from fastcgi.com, pulled from the Wayback Machine archive, at [FastCGI-Archives/FastCGI.com](https://github.com/FastCGI-Archives/FastCGI.com/tree/master/docs) github project.
+  * The original version from fastcgi.com, pulled from the Wayback Machine archive on [20/03/2016](http://web.archive.org/web/20160320065247/http://www.fastcgi.com/drupal/), at [FastCGI-Archives/FastCGI.com](https://github.com/FastCGI-Archives/FastCGI.com/tree/master/docs) github project.
 
   * A markdown version, manually converted from the original, at [FastCGI-Archives/fastcgi-archives.github.io](https://github.com/FastCGI-Archives/fastcgi-archives.github.io).
 
