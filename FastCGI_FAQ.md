@@ -467,11 +467,12 @@ while ($request->Accept() >= 0) {
 
 I'm not sure which are FastCGI safe (let me know if you find one that is or isn't), but here's a few:
 
-*   [ecgi](http://freshmeat.net/projects/ecgi/)
 *   [cgic](http://www.boutell.com/cgic/)
 *   [cgihtml](http://www.eekim.com/software/cgihtml/)
 *   [cgilib](http://cgilib.sourceforge.net/) (C++)
-*   [yacgi](http://www.geocities.com/SiliconValley/Bay/1927/yacgi.html)  
+*   [ecgi](http://freshmeat.net/projects/ecgi/)
+*   [kcgi](https://kristaps.bsd.lv/kcgi/)
+*   [yacgi](http://www.geocities.com/SiliconValley/Bay/1927/yacgi.html)
 
 ##### [Back to Top](#top)
 
