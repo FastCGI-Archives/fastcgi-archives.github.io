@@ -83,7 +83,7 @@ Why FastCGI applications often run faster than applications coded directly to We
 ## [FastCGI Developer' Kit](FastCGI_Developers_Kit_FastCGI.md)
 How to configure and build the kit, and write applications using the FastCGI application libraries.
 
-## [FastCGI Programmer' Guide](https://htmlpreview.github.io/?https://github.com/FastCGI-Archives/fcgi2/blob/master/doc/fastcgi-prog-guide/cover.htm)
+## [FastCGI Programmer' Guide](https://fastcgi-archives.github.io/fcgi2/doc/fastcgi-prog-guide/cover.htm)
 Programmer-oriented documentation for developers of FastCGI applications. The content overlaps considerably with the Developer's Kit document.
 
 ## [FastCGI Specification](FastCGI_Specification.md)
