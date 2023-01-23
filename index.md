@@ -197,5 +197,5 @@ The FastCGI application libraries.
 
 # Articles on FastCGI
 
-*  [FastCGI — The Forgotten Treasur](http://www.nongnu.org/fastcgi/) from Peter Simons
+*  [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi/) from Peter Simons
 *  [FastCGI: Persistent Applications for Your Web Server](http://www.linuxjournal.com/article/2607) from Paul Heinlein of linuxjournal
