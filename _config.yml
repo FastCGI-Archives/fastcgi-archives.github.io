@@ -10,6 +10,7 @@ title: FastCGI.com Github Archives
 description: This is the Github FastCGI Archives of FastCGI.com site.
 google_analytics: G-Y204H06GVK
 keywords: fastcgi, fastcgi specification, fastcgi source, fastcgi php, fastcgi apache, fastcgi iis, fastcgi c++, fastcgi nginx, fastcgi download, fcgi spec, fcgi-spec, fastcgi overview, cgi, protocol specification, php-fpm, apache, mod_proxy_fastcgi, mod_fcgid, mod_fastcgi, fcgi2, fcgi sdk, nginx fastcgi, ngx_http_fastcgi_module, ligthttpd, cherokee, perl, python, ruby
-url: https://fastcgi-archives.github.io/
+url: https://fastcgi-archives.github.io
+baseurl: /
 plugins:
   - jekyll-sitemap
